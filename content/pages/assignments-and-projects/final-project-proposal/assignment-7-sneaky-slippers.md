@@ -13,7 +13,7 @@ uid: 9b09f59f-329e-9e05-bf20-936335d35957
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Previous: [student work sample](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project-proposal/assignment-7-little-black-dress-2.0)
+« Previous: {{% resource_link 325c8300-e49b-ffca-daff-60275584f0fc "student work sample" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Next: Return to {{% resource_link 24c3c5c9-6b0d-bc34-1b1f-f3a5e036782a "Assignment 7 description" %}} »
@@ -25,7 +25,7 @@ Next: Return to {{% resource_link 24c3c5c9-6b0d-bc34-1b1f-f3a5e036782a "Assignme
 
 ### By Dawn Wendell
 
-![Photo of a pair of felt slippers with components labelled: LEDs, solar panels, batteries under flaps of fabric, and pressure sensitive rubber under the soles.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project-proposal/assignment-7-sneaky-slippers/slippers.jpg)
+{{< resource b776a3f9-7dfc-93d0-65ba-b645fae2e24e "Photo of a pair of felt slippers with components labelled: LEDs, solar panels, batteries under flaps of fabric, and pressure sensitive rubber under the soles." >}}
 
 The Sneaky Slippers concept. (Wool slippers photo © [The Wool Shack](http://frenchpressknits.blogspot.com/2009/10/happy-slipper-day.html). (c) The Wool Shack to (c) French Press Knits.)
 
@@ -36,7 +36,7 @@ Proposal presentation ({{% resource_link 0edd79d6-b415-ce6e-06ff-bd036e3bdbbd "P
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Previous: [student work sample](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project-proposal/assignment-7-little-black-dress-2.0)
+« Previous: {{% resource_link 325c8300-e49b-ffca-daff-60275584f0fc "student work sample" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Next: Return to {{% resource_link 24c3c5c9-6b0d-bc34-1b1f-f3a5e036782a "Assignment 7 description" %}} »

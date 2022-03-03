@@ -49,11 +49,11 @@ Charlieplexing
  
 ------------------
 
-![Photo of fabric with a grid pattern on it.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/networked-wearable/assignment-6-hello-u.s.a./SewnLeds.jpg)
+{{< resource fcfe9320-4021-0fec-9d80-9dd71c24fe43 "Photo of fabric with a grid pattern on it." >}}
 
 The back of the map. The LEDs are sewn positive leg to horizontal and ground to vertical. Felt pads are used to keep horizontal and vertical layers apart.  
 
-![Photo of circular LilyPad device in some fabric, layed on top of grid-covered fabric.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/networked-wearable/assignment-6-hello-u.s.a./Lillypadlayer.jpg)
+{{< resource b9b68943-6ae3-56ca-559e-d6a4373fbd6a "Photo of circular LilyPad device in some fabric, layed on top of grid-covered fabric." >}}
 
 The LilyPad layer set over the charlieplex felt layer. This is the final layer that has the conductive thread connecting from the LilyPad to the charlieplex grid at the edges of the felt.
 

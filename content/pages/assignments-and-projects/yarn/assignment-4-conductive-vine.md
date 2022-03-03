@@ -32,7 +32,7 @@ Idea
 
 Because conductive yarns short themselves out easily if when not carefully used, I wanted to create a yarn that's insulated on the outside. I took inspiration from normal insulated wire and tried to create the yarn version of an outside sheath with conductive thread running in the middle. I also wanted to take advantage of the fact that yarns can be stretchy to add some elasticity to my yarn.
 
-![Photo of a coiled length of knitted yarn.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/yarn/assignment-4-conductive-vine/spiral.jpg)
+{{< resource 7a295081-43f2-f690-2b4e-be38c670785f "Photo of a coiled length of knitted yarn." >}}
 
 A coil of the Conductive Vine yarn.
 
@@ -41,7 +41,7 @@ Construction
 
 In my personal yarn collection, I had a roll of [Cascade Fixation](http://www.cascadeyarns.com/cascade-Fixation.htm), a cotton-elatic blend, which had a fair amount of stretch. I used this yarn to construct a narrow tube using the [i-cord](http://www.knitting-and.com/knitting/patterns/stitches/icord.htm) technique with size 3 needles. Since I used thin needles and a tight knitting technique, my resulting product had tight stitching and no visible holes.
 
-![Photo of a ball of yarn with two knitting needles.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/yarn/assignment-4-conductive-vine/materials.jpg)
+{{< resource fd393ecc-5121-9a91-28f7-4eeca8291942 "Photo of a ball of yarn with two knitting needles." >}}
 
 The yarn and needles used for this assignment.
 
@@ -58,7 +58,7 @@ Specs
 *   Twist: N/A for my yarn, 16 turns/inch for Cascade Fixation
 *   Conductivity: 1.4 Ohms/Inch
 
-![Photo of a bundle of knitted yarn.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/yarn/assignment-4-conductive-vine/twist.jpg)
+{{< resource 5399b960-6799-f78b-447c-63c9231cfd22 "Photo of a bundle of knitted yarn." >}}
 
 Another view of the Conductive Vine yarn.
 

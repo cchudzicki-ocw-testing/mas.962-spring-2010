@@ -25,13 +25,13 @@ Next: {{% resource_link 27e2601c-ca9e-b8d0-81eb-15fa95de3926 "student work sampl
 
 _By Dawn Wendell_
 
-![Photo of three coils of yarn.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/yarn/assignment-4-conductive-spinning/banner.jpg)
+{{< resource 46b93907-e1e2-b2c2-47d3-9f80f5d92cb7 "Photo of three coils of yarn." >}}
 
 Three yarns made for this assignment.  (Final yarn in the foreground.)
 
 I made yarn! Well, actually, I made 3 yarns, but I will only discuss my final yarn in detail.
 
-![Photo of three coils of yarn.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/yarn/assignment-4-conductive-spinning/yarn.jpg)
+{{< resource f478325d-5792-5248-5402-9c265014aaad "Photo of three coils of yarn." >}}
 
 The final yarn
 
@@ -39,7 +39,7 @@ My final yarn is a two-ply wool-steel blend. One of the plies is wool-only and t
 
 The steel fibers didn't integrate very well with the wool even though I was trying to combine them evenly while spinning.
 
-![Set of four photos showing the steel fibers within the yarn.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/yarn/assignment-4-conductive-spinning/yarn1.jpg)![Set of four photos showing the steel fibers within the yarn.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/yarn/assignment-4-conductive-spinning/yarn2.jpg)![Set of four photos showing the steel fibers within the yarn.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/yarn/assignment-4-conductive-spinning/yarn3.jpg)![Set of four photos showing the steel fibers within the yarn.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/yarn/assignment-4-conductive-spinning/yarn4.jpg)
+{{< resource 5c5df89a-a738-d69e-39d9-c1c303d238d1 "Set of four photos showing the steel fibers within the yarn." >}}{{< resource 2beaeeaa-05d6-6b69-507b-b65f592e2e54 "Set of four photos showing the steel fibers within the yarn." >}}{{< resource 38e07ba4-fde6-7de4-224a-d6e55cde540a "Set of four photos showing the steel fibers within the yarn." >}}{{< resource 404ea70e-2653-8d08-0648-38587f6ee780 "Set of four photos showing the steel fibers within the yarn." >}}
 
 Close-up pictures of the yarn show the conductive steel fibers running through the second ply.
 

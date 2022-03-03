@@ -25,7 +25,7 @@ Next: Return to {{% resource_link b1811d9e-a2ef-f6c0-c98c-0155bac8d761 "Assignme
 
 ### By Dawn Wendell
 
-![Photo of a pair of felt wool slippers, including small solar panels on the top of each foot.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-sneaky-slippers/slippers-done.jpg)
+{{< resource 77ad8421-b2b1-b148-154f-4607f892d6a8 "Photo of a pair of felt wool slippers, including small solar panels on the top of each foot." >}}
 
 Sneaky Slippers.
 
@@ -44,21 +44,21 @@ This was from my work on the {{% resource_link e9d32dff-38c5-9774-4bfd-b9f6ed53c
 
 The yarn is Istex Lett-Lopi which I received as a gift from a friend who visited Iceland. It is a single-ply yarn so it felts easily. I knit it following the pattern for French Press Felted Slippers from the French Press Knits blog. I knit on gauge with size US15 (metric 10) needles. They were metal and heavy and I hated them. But they worked! I also ran low on yarn so I knit the bottoms with two strands of lighter purple yarn and one strand of the dark purple. It gives the slippers a faux-sole look. Because I have very narrow feet I made the bottoms two stitches narrower throughout in hopes that they would fit better.
 
-![Photo of a bit of knitted yarn on the ends of two knitting needles.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-sneaky-slippers/slip1.jpg)
+{{< resource 88fd86b2-1eaa-b948-e085-eb30b9137d60 "Photo of a bit of knitted yarn on the ends of two knitting needles." >}}
 
 Beginning to knit.
 
-![Photo of the completed knitting for each part, arranged in roughly slipper-form.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-sneaky-slippers/slip2.jpg)
+{{< resource 85a3739c-9f18-985f-2ff8-9df545edb904 "Photo of the completed knitting for each part, arranged in roughly slipper-form." >}}
 
 The pattern had 4 pieces per slipper: two sides, the bottom, and the strap. That meant 8 pieces total.
 
-![Photo of the assembled fabric slippers, before felting.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-sneaky-slippers/slip3.jpg)
+{{< resource 37b9510c-e7e2-0c93-fb05-c6d29fd8a47f "Photo of the assembled fabric slippers, before felting." >}}
 
 After weaving in the ends and sewing them together, they looked more slipper-like.
 
 Felting was a bit adventurous. The directions said to put the pieces in a pillowcase, tie it shut, and put into the washer on hot water. Agitate and check every 5 minutes. It also said to NOT let it spin, no rinsing. My process wasn't exactly the same. The pillowcase kept coming unknotted so I put everything in a mesh lingerie bag with a zip top. I let it agitate for more than 25 minutes at 5-minute intervals before forgetting to check it so everything went through the rinse and spin cycle. I caught it before the final rinse and looked at the slippers and they had finally felted to size! The nearly-dry state was also a plus for letting it spin.
 
-![Photo of the felted slippers.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-sneaky-slippers/slip4.jpg)
+{{< resource 20b2de60-e478-81e1-3e8a-7d8ec01e038d "Photo of the felted slippers." >}}
 
 The slippers after felting.
 
@@ -75,17 +75,17 @@ The Sneaky Slippers circuit.
 
 Sources: [Battery](http://www.sparkfun.com/commerce/product_info.php?products_id=731), [LEDs](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=160-1737-1-ND), [Solar Panel](http://www.bigsolarpanels.com/), [Diode](http://www.sparkfun.com/commerce/product_info.php?products_id=8589), Pressure-sensitive rubber (not used on the final product)
 
-![Two photos, the looped wire end and close-up of the assembled diode + solar panel in the slipper.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-sneaky-slippers/wire.jpg)![Two photos, the looped wire end and close-up of the assembled diode + solar panel in the slipper.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-sneaky-slippers/diode_solar.jpg)
+{{< resource 1c8b1e9d-f024-78e8-b6b7-dfd2d1eccb92 "Two photos, the looped wire end and close-up of the assembled diode + solar panel in the slipper." >}}{{< resource cc6fa922-d528-3689-3829-0ebbdc6be5f2 "Two photos, the looped wire end and close-up of the assembled diode + solar panel in the slipper." >}}
 
 The battery was hidden under the slipper's decorative flap. I cut off the wire connectors and soldered the wire ends into loops for easy sewing. The solar panel and diode was sewed to the top of the flap.
 
-![Photo of a small piece yellow plastic with two small silver cylinders on either end.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-sneaky-slippers/LED.jpg)
+{{< resource 17158960-47ae-2769-a859-5da2874da9f1 "Photo of a small piece yellow plastic with two small silver cylinders on either end." >}}
 
 The surface-mount LEDs were turned into LED sequins by soldering on some silver crimp beads for ease of sewing.
 
 My pressure-sensitive rubber order was slow to arrive, so I made a pressure sensor similar to the one from my Soft Circuit assignment (Rescue Bracelet project). I used felt instead of neoprene to try to minimize the height of the sensor. Then I sewed it under the toe area of the slippers.
 
-![Close-up photo of the slipper’s pressure sensor.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-sneaky-slippers/pressure.jpg)
+{{< resource b4d03ca8-84b5-abdb-ff49-cea49b0705ce "Close-up photo of the slipper’s pressure sensor." >}}
 
 The felt-based pressure sensor.
 
@@ -95,7 +95,7 @@ A top view of the slippers, one with the flap open (showing the battery) and one
 
 Finally, I sewed the LEDs onto the slippers and sewed all connections with conductive thread. They didn't work on the first try (I had some shorting issues), but once I rewired the first slipper, they worked like a charm!
 
-![Photo of the illuminated slippers coming down a hallway.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-sneaky-slippers/lightup.jpg)
+{{< resource 750dc9e4-320a-ce34-123b-0f9e712785a5 "Photo of the illuminated slippers coming down a hallway." >}}
 
 They worked like a charm!
 

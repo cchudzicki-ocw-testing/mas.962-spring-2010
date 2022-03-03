@@ -27,7 +27,7 @@ Note: the laser cutter software only recognizes vector lines (the paths of lines
 
 This is for a fabric PCB for the ATtiny13 microcontroller. The drawing includes components for the circuitry and the backing fabric.
 
-![Two line drawings, one with ovoid regions superimposed on a circle, and the other a circle with 12 small dots arranged in the center.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/readings-lectures-tutorials/tut06_laser/laser_cutter.jpg)
+{{< resource 6fff9ae3-a69f-1a1b-a585-428bdb38fc14 "Two line drawings, one with ovoid regions superimposed on a circle, and the other a circle with 12 small dots arranged in the center." >}}
 
 Drawing pattern for laser cutter: circuitry and backing fabric.
 
@@ -69,13 +69,13 @@ Choose the appropriate settings for different materials. Note: you can match dif
 
 Turn on the power strip that's to the right of the machine. This turns on the laser cutter, air filter, and cooling system. When everything is on, it's loud!
 
-![Photo showing the power strip.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/readings-lectures-tutorials/tut06_laser/laser_on_off.jpg)
+{{< resource 8ae8fbaa-57b8-8be6-88d6-9ffbc9c04bdd "Photo showing the power strip." >}}
 
 Power strip for the laser cutter, air filter, and cooling system.
 
 Press the reset button on the machine controls or in the software to home the machine. Note: not homing the machine will result in the machine attempting to cut beyond its boundaries. It's an important step!
 
-![Photo of the laser cutter control panel.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/readings-lectures-tutorials/tut06_laser/control_panel.jpg)
+{{< resource 55d24872-e03b-7f7f-fc0d-7c25d525db3a "Photo of the laser cutter control panel." >}}
 
 The laser cutter control panel.
 
@@ -89,19 +89,19 @@ Use the arrow keys on the machine controls or in the software to move the laser 
 
 Get the focusing tool, which is magnetically attached to the front of the machine.
 
-![LaserFocusingTool.jpg](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/readings-lectures-tutorials/tut06_laser/LaserFocusingTool.jpg)
+{{< resource 7c307214-3b41-1214-cbde-78c08dd1d73d "LaserFocusingTool.jpg" >}}
 
 The focusing tool, attached to the front of the laser cutter.
 
 Use the focusing tool and the socket wrench to adjust the height of the bed so that the notch on the focusing tool rests on the plate that is holding the lens. This will focus the laser at the surface of your material.
 
-![Photo of hand holding focusing tool next to the lens.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/readings-lectures-tutorials/tut06_laser/laser_focusing.jpg)
+{{< resource 2c0c390a-69eb-ff9d-40a3-6b19680932d8 "Photo of hand holding focusing tool next to the lens." >}}
 
 Adjusting the height of the bed.
 
 Adjusting the height of the table:
 
-![Photo of hand adjusting the height of the table.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/readings-lectures-tutorials/tut06_laser/laser_focusing_2.jpg)
+{{< resource 37bb1e66-db61-aefc-01a6-25424d994d80 "Photo of hand adjusting the height of the table." >}}
 
 Adjusting the height of the table.
 

@@ -25,7 +25,7 @@ Next: Return to {{% resource_link e9d32dff-38c5-9774-4bfd-b9f6ed53cab3 "Assignme
 
 ### By Sarah Witt
 
-![Photo of fabric embroidered with the word ‘Welcome’ in a Helvetica-style font. ](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/knit-woven-embroidery-or-print/01_welcome.jpg)
+{{< resource 2e3ae2e6-d3a3-6f29-7d06-8fd532b68394 "Photo of fabric embroidered with the word ‘Welcome’ in a Helvetica-style font. " >}}
 
 I didn't think I'd have such a romance with the embroidery machine. Unable to shake the kitsch, great-aunt image throbbing in my head, it seemed the only solution was to employ just the opposite attitude. Sass, if you will.
 

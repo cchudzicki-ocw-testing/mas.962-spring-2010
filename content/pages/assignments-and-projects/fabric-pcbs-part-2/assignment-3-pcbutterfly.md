@@ -25,7 +25,7 @@ Next: Return to {{% resource_link 65b98bff-a576-b7e8-689b-c6366c1e63d3 "Assignme
 
 _By Xiao Xiao and two anonymous MIT students_
 
-![Photo of a fabric butterfly with several LEDs on its wings, perched on a person’s hand.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/fabric-pcbs-part-2/assignment-3-pcbutterfly/butterfly1.jpg)
+{{< resource faff50f7-536c-21d9-47e5-1876bd12ab58 "Photo of a fabric butterfly with several LEDs on its wings, perched on a person’s hand." >}}
 
 The PCButterfly
 
@@ -39,11 +39,11 @@ The ATtiny13 microcontroller, has 4 pins available to connect to LEDs. Two allow
 The Design
 ----------
 
-![Photo of circuit built in a breadboard, with many wires and clips coming out of it.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/fabric-pcbs-part-2/assignment-3-pcbutterfly/butterfly_boardtest.jpg)
+{{< resource 71d7505f-d718-a56b-ddb9-7bab7564e726 "Photo of circuit built in a breadboard, with many wires and clips coming out of it." >}}
 
 We first tested the layout on a breadboard before designing the actual butterfly circuit pattern.
 
-![Hand-drawn circuit diagram with microcontroller in the center and several LEDs on leads.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/fabric-pcbs-part-2/assignment-3-pcbutterfly/butterfly_circdiag.jpg)
+{{< resource c81fd30e-1f6c-2543-5a19-d63e5aa49e9c "Hand-drawn circuit diagram with microcontroller in the center and several LEDs on leads." >}}
 
 The circuit diagram shows the phototransistor at B3, and LEDs connected at B0, B1(PWM lights) B2, B4 (non-PWM) B5 is for reset and is unconnected.
 
@@ -51,13 +51,13 @@ Our code ([TXT](/courses/media-arts-and-sciences/mas-962-special-topics-new-text
 
 There are two main fabric layers – a bottom layer for the main conductive area of the circuit, and the top layer that supports the ground wire, phototransistor, LEDs and resistors. The design incorporates iron-on adhesive conductive fabric as the substrate for the circuit. The phototransistor, LEDs and resistors are through components that source power through the microcontroller located at the center of the butterfly layout. A wire frame serves as an easily accessible ground wire as well as a structural support, which can be positioned to give the butterfly a more realistic shape.
 
-![Photo showing top surface of the PCButterfly, with LEDs, integrated circuit device, ground wire and phototransistor.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/fabric-pcbs-part-2/assignment-3-pcbutterfly/butterfly.jpg)
+{{< resource 4b6e8503-97d6-4b4b-1e1d-cc28fcf5b54d "Photo showing top surface of the PCButterfly, with LEDs, integrated circuit device, ground wire and phototransistor." >}}
 
 Top view of the PCButterfly.
 
 An overall (cutting schematic) was rendered with Adobe Illustrator. A different image layer represents each fabric. Before cutting, it is necessary to separate the layers into discrete files in a format that can be imported to the laser cutter (ai v. 7, .dmx). Silicone molds were also created to add epoxy coatings to protect the soldered connections on the underside of the structure.
 
-![Line drawing of the PCButterfly for use in controlling the laser cutter. ](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/fabric-pcbs-part-2/assignment-3-pcbutterfly/butterfly_layout.jpg)
+{{< resource 7ca08c5f-a2fc-7fa6-e85f-cee9ce276a68 "Line drawing of the PCButterfly for use in controlling the laser cutter. " >}}
 
 Laser cutter schematic.
 
@@ -72,11 +72,11 @@ The Fabrics
 
 We tested a variety of fabrics including denim, leather and lightweight lining material. We wanted to be able to incorporate a range of textures into our design and allow for easy customization by simply rearranging the materials. The lining fabric was a bit too light to use on its own reliably, although we would like to experiment more with light fabrics in the future. The laser cutter was an ideal tool for creating decorative cutout designs on the wings. Both the denim and leather provided a robust structure for our PCB and our final design included a leather underside (most of the conductive fabric was adhered to this layer), lining fabric middle layer, and a denim top layer (ground wire frame, LEDs and resistors on this side).
 
-![Photo of the leather underside of the PCButterfly, showing some stripes of silver conductive fabric. ](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/fabric-pcbs-part-2/assignment-3-pcbutterfly/butterfly_back.jpg)
+{{< resource 3ee901ff-ee3e-ca15-3628-33fda07b330e "Photo of the leather underside of the PCButterfly, showing some stripes of silver conductive fabric. " >}}
 
 Leather underside, with most of the conductive fabric.
 
-![Photo of the PCButterfly in dim background light, with LEDs lit up. ](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/fabric-pcbs-part-2/assignment-3-pcbutterfly/butterfly_work.jpg)
+{{< resource 5ca07f3a-b31f-bc87-bf0d-80db40e80632 "Photo of the PCButterfly in dim background light, with LEDs lit up. " >}}
 
 The PCButterfly in action.
 

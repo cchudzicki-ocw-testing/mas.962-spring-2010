@@ -25,7 +25,7 @@ Next: {{< resource_link 3195c5f0-7d93-000d-659f-ac026d394629 "student work sampl
 
 _By Rizal Muslimin_
 
-![Diagram showing the 3-stage progression of an embroidery design from RhinoScript software to DRAWings software to photos of its fabrication on an embroidery machine.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/knit-woven-embroidery-or-print/assignment-8-blossom-from-rhino-to-bernina/bernina1.jpg)
+{{< resource 9e4e85c6-ec88-e6f9-9274-a9b799cef366 "Diagram showing the 3-stage progression of an embroidery design from RhinoScript software to DRAWings software to photos of its fabrication on an embroidery machine." >}}
 
 Workflow from RhinoScript to DRAWings to the Bernina embroidery machine.
 
@@ -58,7 +58,7 @@ As expected, I made mistakes. First, the scaling issues. It turns out what you s
 
 After the pattern was converted to \*.AI files, all the algorithmic logic is also gone. As a result, the machine stitches the patterns following the way Illustrator converts the file from Rhino. It would be super interesting if Bernina can generate the original logic.
 
-![Two photos of fabric embroidered with the blossoms design.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/knit-woven-embroidery-or-print/assignment-8-blossom-from-rhino-to-bernina/bernina2.jpg)
+{{< resource a37c5109-8f0d-eb6f-dadc-4f747718ba30 "Two photos of fabric embroidered with the blossoms design." >}}
 
 Blossoms as produced on the Bernina machine.
 

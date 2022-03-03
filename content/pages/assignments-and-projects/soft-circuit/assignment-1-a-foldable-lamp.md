@@ -27,19 +27,19 @@ _By anonymous student_
 
 The intention of this project was to create a soft circuit. Initially my mind was stuck in the paradigm of TEXTILES = FASHION, but I don't know much about fashion so for me the equation changed to INTEGRATED TEXTILES = ???. The applications seem endless: furniture, cars, linens, personal accessories, soft robots, etc! But I needed something simple to learn more about the details of sewing circuits:
 
-![Table lamp with shade tilted to the side.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/soft-circuit/assignment-1-a-foldable-lamp/lamp_1.gif)
+{{< resource a945a472-028b-5051-5464-738b3cad398f "Table lamp with shade tilted to the side." >}}
 
 A conventional table lamp.
 
 I often wish I could set the lighting in my environment. The problem is that most lights are cumbersome, delicate, and require a power source. Not to mention that I would look foolish carrying a 15lb. Luxo lamp around with me all the time. So why not make a fabric lamp? A lamp that could be folded up, put in my pocket, and taken to the library!
 
-![Line drawing showing the fabric lamp on table, with inset showing it folded flat.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/soft-circuit/assignment-1-a-foldable-lamp/proj1_diagram.gif)
+{{< resource 43773ea5-bdc7-f84b-c5b3-5a182e37d2b7 "Line drawing showing the fabric lamp on table, with inset showing it folded flat." >}}
 
 Fabric lamp concept.
 
 To turn the light of the tail is placed between the magnetic switch and the battery. This forces the shade to be slightly tilted and physically communicate its state. It was also quite nice to work with 100% wool felt: it sews very well and provides great haptic and visual quality.
 
-![Two photos of the lamp on a table, in off and on configurations.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/soft-circuit/assignment-1-a-foldable-lamp/light_library.jpg)
+{{< resource b4099e19-d0b6-cf0a-f1ba-03482d6757f2 "Two photos of the lamp on a table, in off and on configurations." >}}
 
 The fabric lamp in use, OFF (top photo) and ON (bottom photo).
 

@@ -27,7 +27,7 @@ Sample Student Work
 
 These samples are presented courtesy of the students and used with permission.
 
-[USD (Useless Safety Device)](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/soft-circuit/assignment-1-usd-useless-safety-device-version-0.1)
+{{% resource_link fac07c50-fc85-ba7c-d005-d8046af7cac2 "USD (Useless Safety Device)" %}}
 
 {{< resource_link 4e354258-4b1a-c7ec-f8c5-aa84732d2e29 "Amy's Whale Monster" >}}
 

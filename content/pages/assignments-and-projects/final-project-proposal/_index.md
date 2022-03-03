@@ -45,6 +45,6 @@ Sample work is presented courtesy of the students and used with permission.
 
 {{< resource_link 4ff1a061-ee49-b42a-4530-6742c237f680 "Tunable Stiffness Structures" >}}
 
-[Little Black Dress 2.0](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project-proposal/assignment-7-little-black-dress-2.0)
+{{% resource_link 325c8300-e49b-ffca-daff-60275584f0fc "Little Black Dress 2.0" %}}
 
 {{< resource_link 9b09f59f-329e-9e05-bf20-936335d35957 "Sneaky Slippers" >}}

@@ -49,13 +49,13 @@ Assignment Resources
 
 ### Make a Textile Arduino
 
-![Drawing of a circular piece of fabric with an ATMega168 microcontroller IC in the center. Many leads connect to labeled conductive regions on the fabric, and several regions include other electronic components.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/networked-wearable/textile_arduino.jpg)
+{{< resource 42656b6c-560d-e773-ca96-ce9cde898e78 "Drawing of a circular piece of fabric with an ATMega168 microcontroller IC in the center. Many leads connect to labeled conductive regions on the fabric, and several regions include other electronic components." >}}
 
 An example textile Arduino circuit.
 
 Here's a diagram that shows how the ATMega168 pins are mapped to Arduino pins:
 
-![Pinout schematic diagram of ATMega168 IC, in which each of the 28 pins is associated with a particular Arduino function.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/networked-wearable/ArduinoPinMapping.gif)
+{{< resource 857cf971-62c4-7b70-7423-e7d8e5e44c13 "Pinout schematic diagram of ATMega168 IC, in which each of the 28 pins is associated with a particular Arduino function." >}}
 
 Mapping ATMega168 pins to Arduino pins. (Courtesy of Arduino.cc. Used with permission.)
 
@@ -87,4 +87,4 @@ Sample work is presented courtesy of the students and used with permission.
 
 {{< resource_link 77520b74-548a-605c-22bd-5f4919a9b598 "Wrist-based Way-Finding" >}}
 
-[Hello USA Neworked Wearable](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/networked-wearable/assignment-6-hello-u.s.a.)
+{{% resource_link d9c64252-0aba-741e-8bc3-ef40039896ca "Hello USA Neworked Wearable" %}}

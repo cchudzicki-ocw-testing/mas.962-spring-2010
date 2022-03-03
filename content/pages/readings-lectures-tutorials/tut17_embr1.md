@@ -35,7 +35,7 @@ The icon for the software is on the Desktop of the HLT laptop and desktop machin
 
 If instructions popup onscreen, simply follow these instructions. Otherwise, go to File->New to create your design. Select your image file and keep the default settings for the rest of the options. If all goes well your window should looks something like this when you're done:
 
-![Screenshot of an embroidery design in the DRAWings4 program.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/readings-lectures-tutorials/tut17_embr1/drawings1.jpg)
+{{< resource c8e6ee0d-9a4c-8bc7-9da7-9ad7598c8422 "Screenshot of an embroidery design in the DRAWings4 program." >}}
 
 New embroidery design in DRAWings4. (Courtesy of DRAWstitch Ltd. Used with permission.)
 
@@ -47,7 +47,7 @@ Use the menu on the right hand side to edit the stitches in different regions of
 
 Go to File->Save As and select Melco expanded (\*.exp) as the Save as type from the drop down menu. Name your file and save it.
 
-![Screenshot of File Save As step in the DRAWings4 program.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/readings-lectures-tutorials/tut17_embr1/drawings_save.jpg)
+{{< resource c80c32c4-6e8f-1add-ee87-f10ed356d926 "Screenshot of File Save As step in the DRAWings4 program." >}}
 
 File saving in DRAWings4. (Courtesy of DRAWstitch Ltd. Used with permission.)
 

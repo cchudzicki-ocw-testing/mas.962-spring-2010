@@ -51,13 +51,13 @@ The cd stands for "change directory".
 
 Here is the pin layout diagram for the ATtiny13 chip – the miniature computer that we'll be using. The diagram is from the ATtiny13 datasheet ([PDF - 2.9MB](http://www.atmel.com/dyn/resources/prod_documents/doc2535.pdf)).
 
-![ATtIC pinout schematic, showing functions of the eight pins, with some pin functions underlined.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/readings-lectures-tutorials/tut06_avr1/ATtiny13.gif)
+{{< resource 6234ff23-46d3-ac37-1ce6-9d856ba8f1a2 "ATtIC pinout schematic, showing functions of the eight pins, with some pin functions underlined." >}}
 
 ATiny13 pinout diagram. (© Atmel. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [http://ocw.mit.edu/fairuse](/fairuse))
 
 The first important thing to know is how to orient the chip to the diagram. We need to know which way is up. If you look closely at the chip you will see a small dot in one corner. This dot indicates the top of the chip. When you match your chip to the diagram, the dot should be in the upper left hand corner of the chip, like so:
 
-![Drawing of IC package showing the locator dot in upper left corner.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/readings-lectures-tutorials/tut06_avr1/ATtiny13Dot.gif)
+{{< resource 4b62a501-2cab-1cf8-07e3-f2953f14ec42 "Drawing of IC package showing the locator dot in upper left corner." >}}
 
 Orienting your ATiny13 device.
 
@@ -65,7 +65,7 @@ The diagram also shows the different functions of each leg of the ATtiny13 chip.
 
 Clip the programmer to your circuit, attaching the labeled alligator clips to the appropriate legs of the chip. Refer to the diagram above and follow the traces of your circuit. We need to attach + (also called "VCC" or "power" and usually colored red), - (also called "GND" or "ground" and usually colored black), RESET, MOSI, MISO, and SCK. Use the round piece of plexiglass to support your circuit. Here is a photograph that shows what the physical attachment should look like.
 
-![Photo of a fabric circuit with ATiny13 in the center, and several alligator clips attached to the fabric circuit.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/readings-lectures-tutorials/tut06_avr1/ATtiny_13_program.jpg)
+{{< resource bbd2e820-7e9b-5119-6e4a-15335494bbc6 "Photo of a fabric circuit with ATiny13 in the center, and several alligator clips attached to the fabric circuit." >}}
 
 Attaching programmer to the ATiny13 using your circuit.
 

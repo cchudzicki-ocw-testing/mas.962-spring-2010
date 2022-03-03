@@ -12,10 +12,10 @@ uid: 202ac8dd-885c-dd02-7531-38f0e50235da
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Previous: {{< resource_link d8eb9e0f-dc2e-dea8-e428-1018fad1877d "Assignment 5: Nonwoven" >}}
+« Previous: {{% resource_link d8eb9e0f-dc2e-dea8-e428-1018fad1877d "Assignment 5: Nonwoven" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-Next: {{< resource_link 24c3c5c9-6b0d-bc34-1b1f-f3a5e036782a "Assignment 7: Final Project Proposal" >}} »
+Next: {{% resource_link 24c3c5c9-6b0d-bc34-1b1f-f3a5e036782a "Assignment 7: Final Project Proposal" %}} »
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,17 +49,17 @@ Assignment Resources
 
 ### Make a Textile Arduino
 
-{{< resource 42656b6c-560d-e773-ca96-ce9cde898e78 "Drawing of a circular piece of fabric with an ATMega168 microcontroller IC in the center. Many leads connect to labeled conductive regions on the fabric, and several regions include other electronic components." >}}
+![Drawing of a circular piece of fabric with an ATMega168 microcontroller IC in the center. Many leads connect to labeled conductive regions on the fabric, and several regions include other electronic components.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/networked-wearable/textile_arduino.jpg)
 
 An example textile Arduino circuit.
 
 Here's a diagram that shows how the ATMega168 pins are mapped to Arduino pins:
 
-{{< resource 857cf971-62c4-7b70-7423-e7d8e5e44c13 "Pinout schematic diagram of ATMega168 IC, in which each of the 28 pins is associated with a particular Arduino function." >}}
+![Pinout schematic diagram of ATMega168 IC, in which each of the 28 pins is associated with a particular Arduino function.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/networked-wearable/ArduinoPinMapping.gif)
 
 Mapping ATMega168 pins to Arduino pins. (Courtesy of Arduino.cc. Used with permission.)
 
-Circuit drawing in Adobe Illustrator format ({{< resource_link 8f67ceb3-909a-1090-fd0c-89727abbd8ca "AI" >}})
+Circuit drawing in Adobe Illustrator format ({{% resource_link 8f67ceb3-909a-1090-fd0c-89727abbd8ca "AI" %}})
 
 Code for ATmega168 microcontroller [(arduinoBootloader)](https://arduinobootloader.readthedocs.io/en/latest/index.html) 
 
@@ -85,6 +85,6 @@ Sample Student Work
 
 Sample work is presented courtesy of the students and used with permission.
 
-{{< resource_link 77520b74-548a-605c-22bd-5f4919a9b598 "Wrist-based Way-Finding" >}}
+{{% resource_link 77520b74-548a-605c-22bd-5f4919a9b598 "Wrist-based Way-Finding" %}}
 
-{{% resource_link d9c64252-0aba-741e-8bc3-ef40039896ca "Hello USA Neworked Wearable" %}}
+[Hello USA Neworked Wearable](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/networked-wearable/assignment-6-hello-u.s.a.)

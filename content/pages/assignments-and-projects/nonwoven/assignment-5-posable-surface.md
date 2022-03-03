@@ -13,10 +13,10 @@ uid: 5edba3bc-d722-e600-3a71-61b4af68e278
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Previous: {{< resource_link 07150280-b359-779b-1938-dee9a2f53f99 "student work sample" >}}
+« Previous: {{% resource_link 07150280-b359-779b-1938-dee9a2f53f99 "student work sample" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-Next: Return to {{< resource_link d8eb9e0f-dc2e-dea8-e428-1018fad1877d "Assignment 5 description" >}} »
+Next: Return to {{% resource_link d8eb9e0f-dc2e-dea8-e428-1018fad1877d "Assignment 5 description" %}} »
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -27,13 +27,13 @@ _By anonymous student_
 
 There is an inherent problem with the parametric frenzy of architecture: one cannot very well physically model the desired surfaces. It would be highly desirable to have a tool to physically visualize surfaces during development. In this project I was hoping to make a flexible fabric that can work as just such a tool.
 
-{{< resource b0f813d5-1b87-57b6-603b-94cae8217fe6 "Photo of a brick wall with oscillating pattern." >}}
+![Photo of a brick wall with oscillating pattern.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/nonwoven/assignment-5-posable-surface/gramazio_kohler.jpg)
 
 "Structural Oscillations” by [Gramazio & Kohler, Architecture and Digital Fabrication, ETH Zurich](http://www.dfab.arch.ethz.ch/web/e/forschung/142.html), in collaboration with Reto Geiser; Venice Bienalle XI, 2008. (Photo © Maris Mezulis. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [http://ocw.mit.edu/fairuse](/fairuse))
 
 In order to create a malleable and posable fabric I set out to embed a metallic skeleton. I chose felt as a base material because it has a thickness that would allow for the embedment of the metallic grill necessary for the task.
 
-{{< resource 26a10aa4-7097-2e5f-2571-af46395387b8 "Schematic drawings of felt and wire grids." >}}
+![Schematic drawings of felt and wire grids.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/nonwoven/assignment-5-posable-surface/grid_2.gif)
 
 Felt waffle embedded with wire grid = posable surface?
 
@@ -61,11 +61,11 @@ Posable surface – proof of concept (perspective view).
 
 Another interesting possibility would be to use nitinol and make the form electrically dynamic. Perhaps for this purpose it would be better to make the skeleton one object and use two pieces of felt. Then it would be easy to sew the nitinol into a sandwich between the felt.
 
-{{< resource fa50b2ce-002d-a365-5a48-c1bfc1cf6588 "Photo of the felt grid laid flat." >}}
+![Photo of the felt grid laid flat.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/nonwoven/assignment-5-posable-surface/image004.jpg)
 
 Posable surface – proof of concept (top view)
 
-{{< resource 24991493-e2f6-4f74-310c-73d7c7d627cd "Top view photo of the felt grid curled up at one end." >}}
+![Top view photo of the felt grid curled up at one end.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/nonwoven/assignment-5-posable-surface/image006.jpg)
 
 Posable surface – proof of concept (top view).
 
@@ -77,10 +77,10 @@ There is promise in the use of posable textiles in the development of complex ma
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Previous: {{< resource_link 07150280-b359-779b-1938-dee9a2f53f99 "student work sample" >}}
+« Previous: {{% resource_link 07150280-b359-779b-1938-dee9a2f53f99 "student work sample" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-Next: Return to {{< resource_link d8eb9e0f-dc2e-dea8-e428-1018fad1877d "Assignment 5 description" >}} »
+Next: Return to {{% resource_link d8eb9e0f-dc2e-dea8-e428-1018fad1877d "Assignment 5 description" %}} »
 {{< tdclose >}}
 
 {{< trclose >}}

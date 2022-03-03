@@ -13,10 +13,10 @@ uid: 07150280-b359-779b-1938-dee9a2f53f99
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Previous: Return to {{< resource_link d8eb9e0f-dc2e-dea8-e428-1018fad1877d "Assignment 5 description" >}}
+« Previous: Return to {{% resource_link d8eb9e0f-dc2e-dea8-e428-1018fad1877d "Assignment 5 description" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-Next: {{< resource_link 5edba3bc-d722-e600-3a71-61b4af68e278 "student work sample" >}} »
+Next: {{% resource_link 5edba3bc-d722-e600-3a71-61b4af68e278 "student work sample" %}} »
 {{< tdclose >}}
 
 {{< trclose >}}

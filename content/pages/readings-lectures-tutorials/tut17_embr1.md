@@ -9,7 +9,7 @@ title: 'Embroidery Machine Tutorial, Part 1: Software'
 uid: a96cb683-a878-2da1-c83c-a2fbd91d9e4a
 ---
 
-{{< resource_link e974bd1a-9897-6b46-896a-13de54082f58 "Readings, Lectures & Tutorials Index" "#ses17" >}} | {{< resource_link dac7dbe9-bb2e-33c6-6027-a326888523c0 "Embroidery Machine Tutorial, Part 2" >}} »
+{{% resource_link e974bd1a-9897-6b46-896a-13de54082f58 "Readings, Lectures & Tutorials Index" "#ses17" %}} | {{% resource_link dac7dbe9-bb2e-33c6-6027-a326888523c0 "Embroidery Machine Tutorial, Part 2" %}} »
 
 We are using the [DRAWings4](http://www.drawstitch.com/index.php/Downloads/DRAWings_Evaluation/)® software package to transform drawings into embroideries for our [Bernina Artista 630 Embroidery/Sewing Machine](http://www.berninausa.com/product_detail-n2-i13-sUS.html).
 
@@ -35,7 +35,7 @@ The icon for the software is on the Desktop of the HLT laptop and desktop machin
 
 If instructions popup onscreen, simply follow these instructions. Otherwise, go to File->New to create your design. Select your image file and keep the default settings for the rest of the options. If all goes well your window should looks something like this when you're done:
 
-{{< resource c8e6ee0d-9a4c-8bc7-9da7-9ad7598c8422 "Screenshot of an embroidery design in the DRAWings4 program." >}}
+![Screenshot of an embroidery design in the DRAWings4 program.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/readings-lectures-tutorials/tut17_embr1/drawings1.jpg)
 
 New embroidery design in DRAWings4. (Courtesy of DRAWstitch Ltd. Used with permission.)
 
@@ -47,12 +47,12 @@ Use the menu on the right hand side to edit the stitches in different regions of
 
 Go to File->Save As and select Melco expanded (\*.exp) as the Save as type from the drop down menu. Name your file and save it.
 
-{{< resource c80c32c4-6e8f-1add-ee87-f10ed356d926 "Screenshot of File Save As step in the DRAWings4 program." >}}
+![Screenshot of File Save As step in the DRAWings4 program.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/readings-lectures-tutorials/tut17_embr1/drawings_save.jpg)
 
 File saving in DRAWings4. (Courtesy of DRAWstitch Ltd. Used with permission.)
 
 **7\. Copy your file onto a USB stick and bring it to the embroidery machine**
 
-Now you're ready to start working with the embroidery machine itself.  Proceed to {{< resource_link dac7dbe9-bb2e-33c6-6027-a326888523c0 "Embroidery Machine Tutorial, Part 2" >}}.
+Now you're ready to start working with the embroidery machine itself.  Proceed to {{% resource_link dac7dbe9-bb2e-33c6-6027-a326888523c0 "Embroidery Machine Tutorial, Part 2" %}}.
 
-{{< resource_link e974bd1a-9897-6b46-896a-13de54082f58 "Readings, Lectures & Tutorials Index" "#ses17" >}} | {{< resource_link dac7dbe9-bb2e-33c6-6027-a326888523c0 "Embroidery Machine Tutorial, Part 2" >}} »
+{{% resource_link e974bd1a-9897-6b46-896a-13de54082f58 "Readings, Lectures & Tutorials Index" "#ses17" %}} | {{% resource_link dac7dbe9-bb2e-33c6-6027-a326888523c0 "Embroidery Machine Tutorial, Part 2" %}} »

@@ -12,14 +12,14 @@ uid: b1811d9e-a2ef-f6c0-c98c-0155bac8d761
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Previous: {{< resource_link e9d32dff-38c5-9774-4bfd-b9f6ed53cab3 "Assignment 8: Knit, Woven, Embroidery, or Print" >}}
+« Previous: {{% resource_link e9d32dff-38c5-9774-4bfd-b9f6ed53cab3 "Assignment 8: Knit, Woven, Embroidery, or Print" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 
 {{< tableclose >}}
 
-For more information on the scope of final projects, see {{< resource_link 24c3c5c9-6b0d-bc34-1b1f-f3a5e036782a "Assigment 7: Final Project Proposal" >}}. The final project consists of two components, a presentation and written documentation.
+For more information on the scope of final projects, see {{% resource_link 24c3c5c9-6b0d-bc34-1b1f-f3a5e036782a "Assigment 7: Final Project Proposal" %}}. The final project consists of two components, a presentation and written documentation.
 
 ### Presentation
 
@@ -36,10 +36,10 @@ Sample Student Work
 
 Sample work is presented courtesy of the students and used with permission.
 
-{{< resource_link 2ef710c0-7770-3f67-93ac-542bcc7dbcc7 "Tunable Stiffness Structures" >}}
+{{% resource_link 2ef710c0-7770-3f67-93ac-542bcc7dbcc7 "Tunable Stiffness Structures" %}}
 
-{{% resource_link ac818d6c-563d-f45a-f35a-abd7ec170986 "Little Black Dress 2.0" %}}
+[Little Black Dress 2.0](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project/final-project-little-black-dress-2.0)
 
-{{< resource_link 9b8eb804-4d19-7104-6776-2a49da5972ee "Responsive Fabric" >}}
+{{% resource_link 9b8eb804-4d19-7104-6776-2a49da5972ee "Responsive Fabric" %}}
 
-{{< resource_link 1d37c63e-6e4d-91ff-be65-4633c880458b "Sneaky Slippers" >}}
+{{% resource_link 1d37c63e-6e4d-91ff-be65-4633c880458b "Sneaky Slippers" %}}

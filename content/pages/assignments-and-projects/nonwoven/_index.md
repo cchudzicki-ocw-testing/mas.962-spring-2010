@@ -12,10 +12,10 @@ uid: d8eb9e0f-dc2e-dea8-e428-1018fad1877d
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Previous: {{< resource_link 89220475-f26b-95a1-2be5-4f3479ca391a "Assignment 4: Yarn" >}}
+« Previous: {{% resource_link 89220475-f26b-95a1-2be5-4f3479ca391a "Assignment 4: Yarn" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-Next: {{< resource_link 202ac8dd-885c-dd02-7531-38f0e50235da "Assignment 6: Networked Wearable" >}} »
+Next: {{% resource_link 202ac8dd-885c-dd02-7531-38f0e50235da "Assignment 6: Networked Wearable" %}} »
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -31,6 +31,6 @@ Sample Student Work
 
 These samples are presented courtesy of the students and used with permission.
 
-{{< resource_link 07150280-b359-779b-1938-dee9a2f53f99 "Hyperbolic-Paraboloidesque Silicone Lamp" >}}
+{{% resource_link 07150280-b359-779b-1938-dee9a2f53f99 "Hyperbolic-Paraboloidesque Silicone Lamp" %}}
 
-{{< resource_link 5edba3bc-d722-e600-3a71-61b4af68e278 "Posable Surface" >}}
+{{% resource_link 5edba3bc-d722-e600-3a71-61b4af68e278 "Posable Surface" %}}

@@ -13,10 +13,10 @@ uid: 325c8300-e49b-ffca-daff-60275584f0fc
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Previous: {{< resource_link 4ff1a061-ee49-b42a-4530-6742c237f680 "student work sample" >}}
+« Previous: {{% resource_link 4ff1a061-ee49-b42a-4530-6742c237f680 "student work sample" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-Next: {{< resource_link 9b09f59f-329e-9e05-bf20-936335d35957 "student work sample" >}} »
+Next: {{% resource_link 9b09f59f-329e-9e05-bf20-936335d35957 "student work sample" %}} »
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,15 +33,15 @@ Our final project is a reinvention of the iconic "little black dress." We are cr
 
 This textile allows for flexibility of self-representation through personal style. With a push of a button, the wearer can decide how she wants to present herself at the moment. A lower neckline? An open back? A shorter hemline? All of the above? This garment can transform to be appropriate for different contexts and moods, while still remaining that classic "little black dress."
 
-Proposal presentation ({{< resource_link 8475cb73-bb68-d770-6fbf-f94968dee733 "PDF - 1.2MB" >}})
+Proposal presentation ({{% resource_link 8475cb73-bb68-d770-6fbf-f94968dee733 "PDF - 1.2MB" %}})
 
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Previous: {{< resource_link 4ff1a061-ee49-b42a-4530-6742c237f680 "student work sample" >}}
+« Previous: {{% resource_link 4ff1a061-ee49-b42a-4530-6742c237f680 "student work sample" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-Next: {{< resource_link 9b09f59f-329e-9e05-bf20-936335d35957 "student work sample" >}} »
+Next: {{% resource_link 9b09f59f-329e-9e05-bf20-936335d35957 "student work sample" %}} »
 {{< tdclose >}}
 
 {{< trclose >}}

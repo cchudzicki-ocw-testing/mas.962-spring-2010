@@ -13,10 +13,10 @@ uid: 41b42985-b4b1-f26c-1c9f-f4c9e926ac9c
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Previous: {{< resource_link 27e2601c-ca9e-b8d0-81eb-15fa95de3926 "student work sample" >}}
+« Previous: {{% resource_link 27e2601c-ca9e-b8d0-81eb-15fa95de3926 "student work sample" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-Next: Return to {{< resource_link 89220475-f26b-95a1-2be5-4f3479ca391a "Assignment 4 description" >}} »
+Next: Return to {{% resource_link 89220475-f26b-95a1-2be5-4f3479ca391a "Assignment 4 description" %}} »
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -25,7 +25,7 @@ Next: Return to {{< resource_link 89220475-f26b-95a1-2be5-4f3479ca391a "Assignme
 
 _By Rizal Muslimin_
 
-{{< resource 4ad70eaf-5374-08fe-0537-f02f40c09b6d "Image of original quipu (knotted strings), and two photos and a diagram of the digital quipu showing conductive and non-conductive yarns and the PCB." >}}
+![Image of original quipu (knotted strings), and two photos and a diagram of the digital quipu showing conductive and non-conductive yarns and the PCB.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/yarn/assignment-4-digital-quipu/quipu.jpg)
 
 Digital Quipu: inspiration and design. (Left image (c) Mary Frame, from “Ancient Cloth...Ancient Code?” All rights reserved. This content is excluded from our Creative Commons license. For more information, see [http://ocw.mit.edu/fairuse](/fairuse).)
 
@@ -40,7 +40,7 @@ In this 2 yards digital quipu, there are 12 yarns ‘knotted’ with 18 PCB’s 
 
 Design elements of digital quipu.
 
-{{< resource bb1cffca-1174-6939-8d95-88cfebf3f7e0 "Three close up photos of the yarn, showing twist pattern." >}}
+![Three close up photos of the yarn, showing twist pattern.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/yarn/assignment-4-digital-quipu/quipu3.jpg)
 
 Close up view of the yarn.
 
@@ -55,10 +55,10 @@ Special thanks to Ayu for helping me out.
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Previous: {{< resource_link 27e2601c-ca9e-b8d0-81eb-15fa95de3926 "student work sample" >}}
+« Previous: {{% resource_link 27e2601c-ca9e-b8d0-81eb-15fa95de3926 "student work sample" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-Next: Return to {{< resource_link 89220475-f26b-95a1-2be5-4f3479ca391a "Assignment 4 description" >}} »
+Next: Return to {{% resource_link 89220475-f26b-95a1-2be5-4f3479ca391a "Assignment 4 description" %}} »
 {{< tdclose >}}
 
 {{< trclose >}}

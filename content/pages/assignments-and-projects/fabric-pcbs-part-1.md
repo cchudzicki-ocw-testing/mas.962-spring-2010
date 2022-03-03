@@ -12,10 +12,10 @@ uid: e9c00279-5fc8-10f8-7807-0fa3f98a1cc6
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Previous: {{< resource_link 8e4ca487-a319-4264-15bf-db3ebc623ff8 "Assignment 1: Soft Circuit" >}}
+« Previous: {{% resource_link 8e4ca487-a319-4264-15bf-db3ebc623ff8 "Assignment 1: Soft Circuit" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-Next: {{< resource_link 65b98bff-a576-b7e8-689b-c6366c1e63d3 "Assignment 3: \"Hello World\" Fabric PCBs, Part 2" >}} »
+Next: {{% resource_link 65b98bff-a576-b7e8-689b-c6366c1e63d3 "Assignment 3: \"Hello World\" Fabric PCBs, Part 2" %}} »
 {{< tdclose >}}
 
 {{< trclose >}}

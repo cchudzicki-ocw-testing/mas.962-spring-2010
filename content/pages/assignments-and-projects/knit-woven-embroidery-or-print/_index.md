@@ -12,10 +12,10 @@ uid: e9d32dff-38c5-9774-4bfd-b9f6ed53cab3
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Previous: {{< resource_link 24c3c5c9-6b0d-bc34-1b1f-f3a5e036782a "Assignment 7: Final Project Proposal" >}}
+« Previous: {{% resource_link 24c3c5c9-6b0d-bc34-1b1f-f3a5e036782a "Assignment 7: Final Project Proposal" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-Next: {{< resource_link b1811d9e-a2ef-f6c0-c98c-0155bac8d761 "Assignment 9: Final Project" >}} »
+Next: {{% resource_link b1811d9e-a2ef-f6c0-c98c-0155bac8d761 "Assignment 9: Final Project" %}} »
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -29,8 +29,8 @@ Sample Student Work
 
 Sample work is presented courtesy of the students and used with permission.
 
-{{< resource_link 6326c223-46e3-e782-b580-37758deb8ac5 "Blossom: From Rhino to Bernina" >}}
+{{% resource_link 6326c223-46e3-e782-b580-37758deb8ac5 "Blossom: From Rhino to Bernina" %}}
 
-{{< resource_link 3195c5f0-7d93-000d-659f-ac026d394629 "\"Our Home\" Embroidery" >}}
+{{% resource_link 3195c5f0-7d93-000d-659f-ac026d394629 "\"Our Home\" Embroidery" %}}
 
-{{< resource_link 891a99d4-fcaf-19e8-22d2-df7dbe9b21cc "Sassy Embroidery" >}}
+{{% resource_link 891a99d4-fcaf-19e8-22d2-df7dbe9b21cc "Sassy Embroidery" %}}

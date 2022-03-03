@@ -13,10 +13,10 @@ uid: fac07c50-fc85-ba7c-d005-d8046af7cac2
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Previous: {{< resource_link 8e4ca487-a319-4264-15bf-db3ebc623ff8 "Assignment 1 description" >}}
+« Previous: {{% resource_link 8e4ca487-a319-4264-15bf-db3ebc623ff8 "Assignment 1 description" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-Next: {{< resource_link 4e354258-4b1a-c7ec-f8c5-aa84732d2e29 "student work sample" >}} »
+Next: {{% resource_link 4e354258-4b1a-c7ec-f8c5-aa84732d2e29 "student work sample" %}} »
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -27,31 +27,31 @@ _By Sarah Witt_
 
 A portable seatbelt to psychosomatically enhance confidence and comfort in dangerous situations through the notion of faux protection. (Unbeknownst to the antagonist, of course.)
 
-{{< resource f977155c-ab3a-5cde-bdb0-88beee3020d8 "Pencil drawing of two people standing next to each other (“safe”) and one of the people about to kick the other one (“danger”)." >}}
+![Pencil drawing of two people standing next to each other (“safe”) and one of the people about to kick the other one (“danger”).](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/soft-circuit/assignment-1-usd-useless-safety-device-version-0.1/safe_3.jpg)
 
 SAFE ......................................................and NOT SAFE
 
 Occasionally, everyone finds themselves in situations that are undesirable. Often, the "undesirable" portion is a result of our own exaggerated misinterpretation in comparison to what actually is happening. But not always. And for those threatening situations in which safety is truly at stake, one must be prepared. That is why we've created the USD. It's a portable seat belt, worn discretely as a fashion statement around the hips, but is easily transformed into functioning protective gear that acts as both a physical barrier and an alarm system when the wearer is confronted by danger.
 
-{{< resource fc2d1362-97a3-4d98-fd99-c3b67c7b39a7 "Photo of a harness-style fabric belt." >}}
+![Photo of a harness-style fabric belt.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/soft-circuit/assignment-1-usd-useless-safety-device-version-0.1/chain_belt.jpg)
 
 The starting point: a belt form that straps across the chest.
 
 Our team of designers began with a traditional belt form that straps across the chest, protecting the upper torso from coming in physical contact with the offender. But we decided this minimal barrier could be optimized by embedding electronic components that warn the offender to "stand back," simultaneously functioning as an alarm system that can publicly notify bystanders of the emergency. Initially, we considered an additional apparatus wired to the belt that would take on this extra task.
 
-{{< resource 10109fd7-6e79-00f9-6703-5fc1392e4ad0 "Pencil sketches of design concepts including an alarm worn on the head." >}}
+![Pencil sketches of design concepts including an alarm worn on the head.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/soft-circuit/assignment-1-usd-useless-safety-device-version-0.1/sketch2.jpg)
 
 Rejected idea: an audio alarm adhered to the head.
 
 Although effective, we chose not to implement an abrasive audio alarm adhered to the head, as this embellishment could potentially damage the wearer psychologically, primarily by embarrassment. It was determined that LED lights stitched to the belt would be a more polite and overall effective method to alert the offender and cry for help.
 
-{{< resource c9d2376a-76ee-fbc0-6b65-8aeccad26048 "Two photos illustrating the behavior of belt-tightening switch: pulling the end of the belt activates the red LED." >}}
+![Two photos illustrating the behavior of belt-tightening switch: pulling the end of the belt activates the red LED.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/soft-circuit/assignment-1-usd-useless-safety-device-version-0.1/function3.jpg)
 
 Tightening the belt activates the lights.
 
 In keeping with our hopes to limit embarrassment to the wearer, we decided a switch to activate the lights could be naturally integrated into the belt-tightening mechanism.
 
-{{< resource 986580a8-8190-947b-8c93-585c1ee2ce4e "Photo showing the pressure sensor on the end of the belt, with points ‘A’, ‘B’, and ‘!’." >}}
+![Photo showing the pressure sensor on the end of the belt, with points ‘A’, ‘B’, and ‘!’.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/soft-circuit/assignment-1-usd-useless-safety-device-version-0.1/assembly.jpg)
 
 The initial mechanism, based on a pressure sensor.
 
@@ -59,7 +59,7 @@ We began by stitching a pressure sensor out of conductive thread. "A" indicates 
 
 But. We found that the sensor was inaccurate, sloppy, over-sensitive and over-sized, allowing room on the strap for only one red light. In order to make a more concise operating system that allowed for a gradation of "safety," we stitched a calculated circuit (that also had a better color scheme) that aligns with different connection points that turns each LED on and off in consecutive order as the belt gets tighter.
 
-{{< resource f9a19f8a-e5bf-c80b-c0b2-0579044b80ee "Photo of a piece of yellow fabric with several small grey patches sewn into it." >}}
+![Photo of a piece of yellow fabric with several small grey patches sewn into it.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/soft-circuit/assignment-1-usd-useless-safety-device-version-0.1/circuitry.jpg)
 
 The improved mechanism, with staggered patches of conductive fabric, supports a sequence of lights as the belt is tightened.
 
@@ -72,10 +72,10 @@ It is totally safe, and totally recommended for the hyposafetiac in you.
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Previous: {{< resource_link 8e4ca487-a319-4264-15bf-db3ebc623ff8 "Assignment 1 description" >}}
+« Previous: {{% resource_link 8e4ca487-a319-4264-15bf-db3ebc623ff8 "Assignment 1 description" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-Next: {{< resource_link 4e354258-4b1a-c7ec-f8c5-aa84732d2e29 "student work sample" >}} »
+Next: {{% resource_link 4e354258-4b1a-c7ec-f8c5-aa84732d2e29 "student work sample" %}} »
 {{< tdclose >}}
 
 {{< trclose >}}

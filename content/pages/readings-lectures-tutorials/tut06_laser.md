@@ -9,7 +9,7 @@ title: Laser Cutter Tutorial
 uid: b8152aef-691c-0825-0ce2-97f34c7b6768
 ---
 
-{{< resource_link e974bd1a-9897-6b46-896a-13de54082f58 "Readings, Lectures & Tutorials Index" "#ses6" >}} | {{< resource_link 4bbdee6e-bb42-6142-21cf-13f92a364c47 "AVR Programming, Part 1" >}} »
+{{% resource_link e974bd1a-9897-6b46-896a-13de54082f58 "Readings, Lectures & Tutorials Index" "#ses6" %}} | {{% resource_link 4bbdee6e-bb42-6142-21cf-13f92a364c47 "AVR Programming, Part 1" %}} »
 
 WARNING NOTICE:
 
@@ -23,11 +23,11 @@ We have a [Bright Star LG500tt 60 Watt laser cutter](http://www.brightstarlasers
 
 Note: the laser cutter software only recognizes vector lines (the paths of lines). It does not recognize filled shapes or line widths. Here's a sample file in Adobe Illustrator:
 
-*   ATtiny13FabricPCB.ai ({{< resource_link 9900d2d5-4755-6a5c-dd17-60de805b8de4 "AI" >}})
+*   ATtiny13FabricPCB.ai ({{% resource_link 9900d2d5-4755-6a5c-dd17-60de805b8de4 "AI" %}})
 
 This is for a fabric PCB for the ATtiny13 microcontroller. The drawing includes components for the circuitry and the backing fabric.
 
-{{< resource 6fff9ae3-a69f-1a1b-a585-428bdb38fc14 "Two line drawings, one with ovoid regions superimposed on a circle, and the other a circle with 12 small dots arranged in the center." >}}
+![Two line drawings, one with ovoid regions superimposed on a circle, and the other a circle with 12 small dots arranged in the center.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/readings-lectures-tutorials/tut06_laser/laser_cutter.jpg)
 
 Drawing pattern for laser cutter: circuitry and backing fabric.
 
@@ -69,13 +69,13 @@ Choose the appropriate settings for different materials. Note: you can match dif
 
 Turn on the power strip that's to the right of the machine. This turns on the laser cutter, air filter, and cooling system. When everything is on, it's loud!
 
-{{< resource 8ae8fbaa-57b8-8be6-88d6-9ffbc9c04bdd "Photo showing the power strip." >}}
+![Photo showing the power strip.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/readings-lectures-tutorials/tut06_laser/laser_on_off.jpg)
 
 Power strip for the laser cutter, air filter, and cooling system.
 
 Press the reset button on the machine controls or in the software to home the machine. Note: not homing the machine will result in the machine attempting to cut beyond its boundaries. It's an important step!
 
-{{< resource 55d24872-e03b-7f7f-fc0d-7c25d525db3a "Photo of the laser cutter control panel." >}}
+![Photo of the laser cutter control panel.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/readings-lectures-tutorials/tut06_laser/control_panel.jpg)
 
 The laser cutter control panel.
 
@@ -89,19 +89,19 @@ Use the arrow keys on the machine controls or in the software to move the laser 
 
 Get the focusing tool, which is magnetically attached to the front of the machine.
 
-{{< resource 7c307214-3b41-1214-cbde-78c08dd1d73d "LaserFocusingTool.jpg" >}}
+![LaserFocusingTool.jpg](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/readings-lectures-tutorials/tut06_laser/LaserFocusingTool.jpg)
 
 The focusing tool, attached to the front of the laser cutter.
 
 Use the focusing tool and the socket wrench to adjust the height of the bed so that the notch on the focusing tool rests on the plate that is holding the lens. This will focus the laser at the surface of your material.
 
-{{< resource 2c0c390a-69eb-ff9d-40a3-6b19680932d8 "Photo of hand holding focusing tool next to the lens." >}}
+![Photo of hand holding focusing tool next to the lens.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/readings-lectures-tutorials/tut06_laser/laser_focusing.jpg)
 
 Adjusting the height of the bed.
 
 Adjusting the height of the table:
 
-{{< resource 37bb1e66-db61-aefc-01a6-25424d994d80 "Photo of hand adjusting the height of the table." >}}
+![Photo of hand adjusting the height of the table.](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/readings-lectures-tutorials/tut06_laser/laser_focusing_2.jpg)
 
 Adjusting the height of the table.
 
@@ -118,4 +118,4 @@ To test the boundaries of your cut job, hit the edge button on the machine contr
 *   Hit stop to stop the job. Hitting start again after you've pressed stop will start the job from the beginning. You can also open the lid of the laser cutter to immediately stop cutting.
 *   Hitting the big red STOP safety button will immediately turn off the machine.
 
-{{< resource_link e974bd1a-9897-6b46-896a-13de54082f58 "Readings, Lectures & Tutorials Index" "#ses6" >}} | {{< resource_link 4bbdee6e-bb42-6142-21cf-13f92a364c47 "AVR Programming, Part 1" >}} »
+{{% resource_link e974bd1a-9897-6b46-896a-13de54082f58 "Readings, Lectures & Tutorials Index" "#ses6" %}} | {{% resource_link 4bbdee6e-bb42-6142-21cf-13f92a364c47 "AVR Programming, Part 1" %}} »

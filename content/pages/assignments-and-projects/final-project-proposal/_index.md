@@ -12,10 +12,10 @@ uid: 24c3c5c9-6b0d-bc34-1b1f-f3a5e036782a
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Previous: {{< resource_link 202ac8dd-885c-dd02-7531-38f0e50235da "Assignment 6: Networked Wearable" >}}
+« Previous: {{% resource_link 202ac8dd-885c-dd02-7531-38f0e50235da "Assignment 6: Networked Wearable" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-Next: {{< resource_link e9d32dff-38c5-9774-4bfd-b9f6ed53cab3 "Assignment 8: Knit, Woven, Embroidery, or Print" >}} »
+Next: {{% resource_link e9d32dff-38c5-9774-4bfd-b9f6ed53cab3 "Assignment 8: Knit, Woven, Embroidery, or Print" %}} »
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,8 +43,8 @@ Sample Student Work
 
 Sample work is presented courtesy of the students and used with permission.
 
-{{< resource_link 4ff1a061-ee49-b42a-4530-6742c237f680 "Tunable Stiffness Structures" >}}
+{{% resource_link 4ff1a061-ee49-b42a-4530-6742c237f680 "Tunable Stiffness Structures" %}}
 
-{{% resource_link 325c8300-e49b-ffca-daff-60275584f0fc "Little Black Dress 2.0" %}}
+[Little Black Dress 2.0](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/final-project-proposal/assignment-7-little-black-dress-2.0)
 
-{{< resource_link 9b09f59f-329e-9e05-bf20-936335d35957 "Sneaky Slippers" >}}
+{{% resource_link 9b09f59f-329e-9e05-bf20-936335d35957 "Sneaky Slippers" %}}

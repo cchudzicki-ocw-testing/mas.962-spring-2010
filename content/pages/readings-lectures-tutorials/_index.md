@@ -46,7 +46,7 @@ Introduction
 
 {{< tdclose >}}
 {{< tdopen >}}
-Slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 715d4a03-480f-f6d6-1005-bd7fd2bbd879 "PDF - 1.7MB" >}})
+Slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 715d4a03-480f-f6d6-1005-bd7fd2bbd879 "PDF - 1.7MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -69,7 +69,7 @@ Conductive textiles
 
 {{< tdclose >}}
 {{< tdopen >}}
-Slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 21f03b9c-bf35-14d3-6e05-99e73ea03ec4 "PDF" >}})
+Slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 21f03b9c-bf35-14d3-6e05-99e73ea03ec4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -92,7 +92,7 @@ Techniques: sensor design
 
 {{< tdclose >}}
 {{< tdopen >}}
-Slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link d0570e4b-d9dd-1f64-86dd-fded9732a967 "PDF - 10.3MB" >}})(Courtesy of Hannah Perner-Wilson. Used with permission.
+Slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link d0570e4b-d9dd-1f64-86dd-fded9732a967 "PDF - 10.3MB" %}})(Courtesy of Hannah Perner-Wilson. Used with permission.
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -119,7 +119,7 @@ Fabric PCBs, part 1
 
 {{< tdclose >}}
 {{< tdopen >}}
-Fabric PCB tutorial ({{< resource_link 30216b3e-7224-0908-86de-3e5fa34ac744 "PDF" >}})
+Fabric PCB tutorial ({{% resource_link 30216b3e-7224-0908-86de-3e5fa34ac744 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Buechley, L., and Eisenberg, M. "Fabric PCBs, Electronic Sequins, and Socket Buttons: Techniques for E-textile Craft." _Journal of Personal and Ubiquitous Computing_, 13, no. 2 (2009): 133-150. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://hlt.media.mit.edu/publications/buechley_PUC_07.pdf))
@@ -161,11 +161,11 @@ Fabric PCBs, part 2
 {{< tdopen >}}
 
 
-{{< resource_link b8152aef-691c-0825-0ce2-97f34c7b6768 "Laser cutter tutorial" >}}
+{{% resource_link b8152aef-691c-0825-0ce2-97f34c7b6768 "Laser cutter tutorial" %}}
 
-{{< resource_link 4bbdee6e-bb42-6142-21cf-13f92a364c47 "AVR programming 1" >}}
+{{% resource_link 4bbdee6e-bb42-6142-21cf-13f92a364c47 "AVR programming 1" %}}
 
-{{< resource_link a860002e-582c-fa35-4e45-5b5e787595e0 "AVR programming 2" >}}
+{{% resource_link a860002e-582c-fa35-4e45-5b5e787595e0 "AVR programming 2" %}}
 
 
 {{< tdclose >}}
@@ -209,9 +209,9 @@ Fibers and yarns
 {{< tdopen >}}
 
 
-Fiber slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 8f2f1efc-5399-bd19-cedb-194e568d5c1a "PDF" >}})
+Fiber slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 8f2f1efc-5399-bd19-cedb-194e568d5c1a "PDF" %}})
 
-Yarn slides ({{< resource_link 0d3bff33-c15a-d64f-223f-138fa9a62d9b "PDF" >}})
+Yarn slides ({{% resource_link 0d3bff33-c15a-d64f-223f-138fa9a62d9b "PDF" %}})
 
 
 {{< tdclose >}}
@@ -398,9 +398,9 @@ Embroidery and printing
 {{< tdopen >}}
 
 
-{{< resource_link a96cb683-a878-2da1-c83c-a2fbd91d9e4a "Embroidery design software" >}}
+{{% resource_link a96cb683-a878-2da1-c83c-a2fbd91d9e4a "Embroidery design software" %}}
 
-{{< resource_link dac7dbe9-bb2e-33c6-6027-a326888523c0 "Embroidery machine" >}}
+{{% resource_link dac7dbe9-bb2e-33c6-6027-a326888523c0 "Embroidery machine" %}}
 
 
 {{< tdclose >}}

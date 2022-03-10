@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: jl1.jpg
 uid: 51fe8b04-e82e-cd5a-29f5-d1e5994a073b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

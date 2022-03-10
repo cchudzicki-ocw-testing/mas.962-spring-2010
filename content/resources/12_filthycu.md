@@ -26,4 +26,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: 12_filthycu.jpg
 uid: 37a9ad05-4357-595d-1a1e-f44b8d683487
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

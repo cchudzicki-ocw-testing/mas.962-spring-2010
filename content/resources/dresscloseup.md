@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: dressCloseup.jpg
 uid: 6056ae42-f5b8-b2a4-106c-3fc2282510ac
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: drawings_save.jpg
 uid: c80c32c4-6e8f-1add-ee87-f10ed356d926
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

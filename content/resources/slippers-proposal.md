@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: slippers-proposal.jpg
 uid: 16e6afa4-438a-bbf1-ed9e-20bde3fdb8de
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

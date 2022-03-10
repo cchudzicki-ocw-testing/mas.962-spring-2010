@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: ATtiny_13_program.jpg
 uid: bbd2e820-7e9b-5119-6e4a-15335494bbc6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

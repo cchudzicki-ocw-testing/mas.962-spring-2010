@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: b1811d9e-a2ef-f6c0-c98c-0155bac8d761
 title: 'Final Project: Sneaky Slippers'
 uid: 1d37c63e-6e4d-91ff-be65-4633c880458b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

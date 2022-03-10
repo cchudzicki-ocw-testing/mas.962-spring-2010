@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: circuitry.jpg
 uid: f9a19f8a-e5bf-c80b-c0b2-0579044b80ee
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

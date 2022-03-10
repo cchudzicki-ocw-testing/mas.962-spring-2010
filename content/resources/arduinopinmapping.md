@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: ArduinoPinMapping.gif
 uid: 857cf971-62c4-7b70-7423-e7d8e5e44c13
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: b8640e7f-5645-ec2f-4213-a084178fd24b
 title: 'Assignment 9: Final Project'
 uid: b1811d9e-a2ef-f6c0-c98c-0155bac8d761
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

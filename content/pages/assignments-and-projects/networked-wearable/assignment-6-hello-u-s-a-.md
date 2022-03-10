@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: 202ac8dd-885c-dd02-7531-38f0e50235da
 title: 'Assignment 6: Hello U.S.A.!!'
 uid: d9c64252-0aba-741e-8bc3-ef40039896ca
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

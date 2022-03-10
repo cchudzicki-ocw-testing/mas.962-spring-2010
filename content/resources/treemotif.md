@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: treemotif.gif
 uid: 9c7f8267-ce73-f296-5aca-6ad73f23e77d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: Final_steeltextile_Nadia.jpg
 uid: 6eb39531-c538-79dd-6813-6c4bb35ab8ac
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: Final_PUmolds_Nadia.jpg
 uid: 207eba91-14fb-9c8d-7f37-c57bd7f31046
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

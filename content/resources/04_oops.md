@@ -20,4 +20,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: 04_oops.jpg
 uid: 088f28fe-11ae-0493-2cb9-5a084a9a2d02
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

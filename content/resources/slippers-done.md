@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: slippers-done.jpg
 uid: 77ad8421-b2b1-b148-154f-4607f892d6a8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

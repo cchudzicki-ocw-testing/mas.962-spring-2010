@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: bernina2.jpg
 uid: a37c5109-8f0d-eb6f-dadc-4f747718ba30
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

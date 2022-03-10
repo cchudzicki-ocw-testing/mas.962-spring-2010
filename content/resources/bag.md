@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: bag.jpg
 uid: c36d1cfd-c342-caea-5a24-1f8b81aa48cd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: switches.jpg
 uid: 583e67fb-a782-a1a9-370c-2e5962806e49
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

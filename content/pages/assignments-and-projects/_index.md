@@ -4,6 +4,10 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Assignments and Final Project
 uid: b8640e7f-5645-ec2f-4213-a084178fd24b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

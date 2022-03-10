@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: 89220475-f26b-95a1-2be5-4f3479ca391a
 title: 'Assignment 4: Conductive Spinning'
 uid: 837de706-f282-d1c9-dae9-a23bbf743ca2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

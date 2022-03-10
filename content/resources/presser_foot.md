@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: presser_foot.jpg
 uid: 5fa19959-60e8-214d-0a7b-602426467b5d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

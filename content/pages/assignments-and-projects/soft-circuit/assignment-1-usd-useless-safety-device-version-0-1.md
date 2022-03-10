@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: 8e4ca487-a319-4264-15bf-db3ebc623ff8
 title: 'Assignment 1: USD (Useless Safety Device)'
 uid: fac07c50-fc85-ba7c-d005-d8046af7cac2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

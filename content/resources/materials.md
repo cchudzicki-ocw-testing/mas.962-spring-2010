@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: materials.jpg
 uid: fd393ecc-5121-9a91-28f7-4eeca8291942
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

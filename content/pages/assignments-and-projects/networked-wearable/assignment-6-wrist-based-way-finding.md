@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: 202ac8dd-885c-dd02-7531-38f0e50235da
 title: 'Assignment 6: Wrist-based Way-finding'
 uid: 77520b74-548a-605c-22bd-5f4919a9b598
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -70,8 +74,8 @@ Rizal: circuit, soldering, documentation
 Code
 ----
 
-BDR Standalone ([TXT](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/networked-wearable/assignment-6-wrist-based-way-finding/bdr_standalone_code.txt))  
-BDR Integrated ([TXT](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/assignments-and-projects/networked-wearable/assignment-6-wrist-based-way-finding/bdr_integrated_code.txt))
+BDR Standalone ({{% resource_link 931f1939-123d-ee3a-7077-2886289249b6 "TXT" %}})  
+BDR Integrated ({{% resource_link 4cb0c882-10ec-3230-fcf2-35f8e2292b50 "TXT" %}})
 
 {{< tableopen >}}
 {{< tropen >}}

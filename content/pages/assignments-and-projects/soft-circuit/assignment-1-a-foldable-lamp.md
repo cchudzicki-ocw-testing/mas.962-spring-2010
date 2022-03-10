@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: 8e4ca487-a319-4264-15bf-db3ebc623ff8
 title: 'Assignment 1: A Foldable Lamp'
 uid: b8f488be-0db7-ec35-0142-4740591230f7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

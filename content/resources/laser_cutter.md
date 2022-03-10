@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: laser_cutter.jpg
 uid: 6fff9ae3-a69f-1a1b-a585-428bdb38fc14
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

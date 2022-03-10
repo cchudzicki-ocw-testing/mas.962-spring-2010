@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: e974bd1a-9897-6b46-896a-13de54082f58
 title: Laser Cutter Tutorial
 uid: b8152aef-691c-0825-0ce2-97f34c7b6768
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{% resource_link e974bd1a-9897-6b46-896a-13de54082f58 "Readings, Lectures & Tutorials Index" "#ses6" %}} | {{% resource_link 4bbdee6e-bb42-6142-21cf-13f92a364c47 "AVR Programming, Part 1" %}} »
@@ -43,7 +47,7 @@ Go to File→Import and select your drawing file.
 
 Alternately, you can open an existing laser cutter file (.ecp). Here is my fabric PCB file in ecp format:
 
-*   ATtiny13FabricPCB.txt ([TXT](/courses/media-arts-and-sciences/mas-962-special-topics-new-textiles-spring-2010/readings-lectures-tutorials/tut06_laser/ATtiny13FabricPCB.txt))
+*   ATtiny13FabricPCB.txt ({{% resource_link c55ed916-8966-084f-db55-8b0f099b3e6e "TXT" %}})
 
 (Note: change the extension from .txt to .ecp after downloading. Wiki software does not allow you to upload and post .ecp files.)
 

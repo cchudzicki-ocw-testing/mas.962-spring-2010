@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: ironontrees.gif
 uid: 6b750f50-092a-aff8-dc38-bdb76933ce56
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

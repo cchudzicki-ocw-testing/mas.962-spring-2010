@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: laser_focusing.jpg
 uid: 2c0c390a-69eb-ff9d-40a3-6b19680932d8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

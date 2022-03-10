@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: neoprene.jpg
 uid: 53db2c38-0fcb-d7c6-37ea-5b36ecf48814
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -27,4 +27,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: 07_spill.jpg
 uid: 64632474-d657-b582-3923-8e9b978e692a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

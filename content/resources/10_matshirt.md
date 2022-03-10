@@ -16,4 +16,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: 10_matshirt.jpg
 uid: 9b03aac8-0401-a629-e19b-d42d7a7ccaa9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

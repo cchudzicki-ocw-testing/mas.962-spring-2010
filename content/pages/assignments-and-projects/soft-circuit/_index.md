@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: b8640e7f-5645-ec2f-4213-a084178fd24b
 title: 'Assignment 1: Soft Circuit'
 uid: 8e4ca487-a319-4264-15bf-db3ebc623ff8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

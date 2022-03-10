@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: Final_siliconesteel_Nadia.jpg
 uid: d21e5c70-2db2-5266-de88-d01371833ead
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

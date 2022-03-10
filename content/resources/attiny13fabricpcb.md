@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: ATtiny13FabricPCB.ai
 uid: 9900d2d5-4755-6a5c-dd17-60de805b8de4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

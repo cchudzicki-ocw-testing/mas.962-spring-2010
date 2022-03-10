@@ -16,4 +16,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: 11_peoplemat.jpg
 uid: aee7f510-d537-631e-ae58-c94d81820859
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

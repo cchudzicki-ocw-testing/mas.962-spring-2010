@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: b8640e7f-5645-ec2f-4213-a084178fd24b
 title: 'Assignment 8: Knit, Woven, Embroidery, or Print'
 uid: e9d32dff-38c5-9774-4bfd-b9f6ed53cab3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

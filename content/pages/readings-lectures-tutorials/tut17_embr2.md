@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: e974bd1a-9897-6b46-896a-13de54082f58
 title: 'Embroidery Machine Tutorial, Part 2: The Machine'
 uid: dac7dbe9-bb2e-33c6-6027-a326888523c0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 4bbdee6e-bb42-6142-21cf-13f92a364c47 "Embroidery Machine Tutorial, Part 1" %}} | {{% resource_link e974bd1a-9897-6b46-896a-13de54082f58 "Readings, Lectures & Tutorials Index" "#ses17" %}}

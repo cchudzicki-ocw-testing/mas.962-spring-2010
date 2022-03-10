@@ -14,4 +14,8 @@ ocw_type: OCWImage
 resourcetype: Image
 title: mas-962s10-th.jpg
 uid: 0d9151fe-d9e9-4fe9-eb87-6a02d6727cc9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

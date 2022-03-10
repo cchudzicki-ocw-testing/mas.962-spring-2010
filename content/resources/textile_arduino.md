@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: textile_arduino.jpg
 uid: 42656b6c-560d-e773-ca96-ce9cde898e78
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

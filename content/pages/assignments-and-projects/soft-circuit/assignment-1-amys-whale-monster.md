@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: 8e4ca487-a319-4264-15bf-db3ebc623ff8
 title: 'Assignment 1: Amy''s Whale Monster'
 uid: 4e354258-4b1a-c7ec-f8c5-aa84732d2e29
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

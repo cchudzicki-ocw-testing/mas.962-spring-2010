@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: perspective2.jpg
 uid: 8a816ec5-4a5b-17e1-a7a0-e6d5cbe476ae
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

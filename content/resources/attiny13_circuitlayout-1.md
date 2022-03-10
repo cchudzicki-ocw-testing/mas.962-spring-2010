@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: ATtiny13_CircuitLayout.jpg
 uid: 7337262a-2c19-7a8c-fc43-a788d7604754
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

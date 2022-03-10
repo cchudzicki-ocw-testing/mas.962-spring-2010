@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: SewnLeds.jpg
 uid: fcfe9320-4021-0fec-9d80-9dd71c24fe43
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

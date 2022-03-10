@@ -17,4 +17,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: 08_grass.jpg
 uid: b72d3bf4-c386-f1cb-0f22-3edaaeeccc1b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

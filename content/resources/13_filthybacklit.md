@@ -23,4 +23,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: 13_filthybacklit.jpg
 uid: d2f59aba-da35-f556-72d4-3ef174c6e4ae
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

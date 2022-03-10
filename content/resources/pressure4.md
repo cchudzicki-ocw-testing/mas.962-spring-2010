@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: pressure4.jpg
 uid: 3d719a06-4c46-4f87-7e8c-05cfbb1bc936
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

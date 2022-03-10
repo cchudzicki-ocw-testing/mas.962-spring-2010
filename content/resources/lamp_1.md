@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: lamp_1.gif
 uid: a945a472-028b-5051-5464-738b3cad398f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

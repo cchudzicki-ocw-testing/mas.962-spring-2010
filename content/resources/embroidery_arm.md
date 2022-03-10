@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: embroidery_arm.jpg
 uid: 721ff59e-d522-39fa-aa3f-a61b6d5d0ee2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

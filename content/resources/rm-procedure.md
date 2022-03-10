@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: rm-procedure.jpg
 uid: 6f3b0ed7-d146-1fc2-da74-c761df6a5441
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

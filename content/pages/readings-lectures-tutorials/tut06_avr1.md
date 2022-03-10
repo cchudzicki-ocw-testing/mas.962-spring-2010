@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: e974bd1a-9897-6b46-896a-13de54082f58
 title: 'AVR Programming Tutorial, Part 1: Downloading Programs'
 uid: 4bbdee6e-bb42-6142-21cf-13f92a364c47
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link b8152aef-691c-0825-0ce2-97f34c7b6768 "Laser Cutter Tutorial" %}} | {{% resource_link e974bd1a-9897-6b46-896a-13de54082f58 "Readings, Lectures & Tutorials Index" "#ses6" %}} | {{% resource_link a860002e-582c-fa35-4e45-5b5e787595e0 "AVR Programming, Part 2" %}} »

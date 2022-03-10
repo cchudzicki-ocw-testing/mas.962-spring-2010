@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: Lillypadlayer.jpg
 uid: b9b68943-6ae3-56ca-559e-d6a4373fbd6a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

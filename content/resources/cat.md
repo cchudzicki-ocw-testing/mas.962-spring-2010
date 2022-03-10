@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: cat.jpg
 uid: be96da9f-275e-0caa-a29d-a2d21e07cd0e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

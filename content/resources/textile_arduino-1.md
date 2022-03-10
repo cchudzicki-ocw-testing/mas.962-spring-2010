@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: textile_ardiuno.ai
 uid: 8f67ceb3-909a-1090-fd0c-89727abbd8ca
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: laser_on_off.jpg
 uid: 8ae8fbaa-57b8-8be6-88d6-9ffbc9c04bdd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

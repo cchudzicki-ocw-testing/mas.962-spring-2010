@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: assembly.jpg
 uid: 986580a8-8190-947b-8c93-585c1ee2ce4e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

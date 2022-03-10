@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: d8eb9e0f-dc2e-dea8-e428-1018fad1877d
 title: 'Assignment 5: The Hyperbolic-Paraboloidesque Silicone Lamp'
 uid: 07150280-b359-779b-1938-dee9a2f53f99
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

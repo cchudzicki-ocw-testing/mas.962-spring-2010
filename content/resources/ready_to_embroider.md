@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: ready_to_embroider.jpg
 uid: 77b6377a-951b-01ee-c02a-4c1c1c7fb65e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

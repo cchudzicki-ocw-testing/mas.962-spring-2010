@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MITMAS_962S10_tut04_fabpcb.pdf
 uid: 30216b3e-7224-0908-86de-3e5fa34ac744
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

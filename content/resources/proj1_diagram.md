@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: proj1_diagram.gif
 uid: 43773ea5-bdc7-f84b-c5b3-5a182e37d2b7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

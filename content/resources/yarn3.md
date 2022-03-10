@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: yarn3.jpg
 uid: 38e07ba4-fde6-7de4-224a-d6e55cde540a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

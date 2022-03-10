@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: embroidery.jpg
 uid: 8b3e873b-fe30-85ed-153a-0b84ca671d83
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

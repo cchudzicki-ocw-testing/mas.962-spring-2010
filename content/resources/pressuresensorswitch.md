@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: pressureSensorSwitch.jpg
 uid: 19a6be38-62fd-b2aa-6108-5c3d338c73fa
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

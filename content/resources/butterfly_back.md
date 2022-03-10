@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: butterfly_back.jpg
 uid: 3ee901ff-ee3e-ca15-3628-33fda07b330e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

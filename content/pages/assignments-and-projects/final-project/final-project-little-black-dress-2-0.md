@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: b1811d9e-a2ef-f6c0-c98c-0155bac8d761
 title: 'Final Project: Little Black Dress 2.0'
 uid: ac818d6c-563d-f45a-f35a-abd7ec170986
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

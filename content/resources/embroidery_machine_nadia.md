@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: Embroidery_machine_Nadia.jpg
 uid: 56ab9763-98f4-ca45-b156-1bd83024bbec
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

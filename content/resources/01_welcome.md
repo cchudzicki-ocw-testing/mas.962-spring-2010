@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: 01_welcome.jpg
 uid: 2e3ae2e6-d3a3-6f29-7d06-8fd532b68394
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

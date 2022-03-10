@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: rm-joint.jpg
 uid: 052dc10e-2344-ecb4-9356-a65521422006
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

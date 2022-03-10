@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: hoop2.jpg
 uid: 94952e11-36b1-e1e9-d688-54de754a46e4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

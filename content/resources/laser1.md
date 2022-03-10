@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: laser1.jpg
 uid: 87b04ab2-6cfa-3abf-f18e-8df6b19e221c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

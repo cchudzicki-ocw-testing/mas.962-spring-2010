@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: rm-component.jpg
 uid: 6cb9a243-9199-4871-9bd0-96e1bb76b664
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

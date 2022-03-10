@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: grid_2.gif
 uid: 26a10aa4-7097-2e5f-2571-af46395387b8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

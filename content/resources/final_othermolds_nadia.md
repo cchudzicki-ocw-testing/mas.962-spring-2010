@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: Final_othermolds_Nadia.jpg
 uid: 46cb24d8-29dc-71bc-193d-60388fd1232e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

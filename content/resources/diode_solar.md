@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: diode_solar.jpg
 uid: cc6fa922-d528-3689-3829-0ebbdc6be5f2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: AVRCodeRegions.gif
 uid: fabcdcf6-dfbf-00b0-a3e5-e9f945ceac94
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

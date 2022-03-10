@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: light_library.jpg
 uid: b4099e19-d0b6-cf0a-f1ba-03482d6757f2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: gramazio_kohler.jpg
 uid: b0f813d5-1b87-57b6-603b-94cae8217fe6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

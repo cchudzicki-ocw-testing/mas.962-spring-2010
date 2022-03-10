@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: Nonwoven_dippedwax_Nadia.jpg
 uid: fa9b0099-6e7d-bb43-480b-f4eb865ec455
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: safe_3.jpg
 uid: f977155c-ab3a-5cde-bdb0-88beee3020d8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

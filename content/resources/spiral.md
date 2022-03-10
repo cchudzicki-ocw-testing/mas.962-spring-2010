@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: spiral.jpg
 uid: 7a295081-43f2-f690-2b4e-be38c670785f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

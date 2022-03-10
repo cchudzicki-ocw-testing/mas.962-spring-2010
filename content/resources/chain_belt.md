@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: chain_belt.jpg
 uid: fc2d1362-97a3-4d98-fd99-c3b67c7b39a7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

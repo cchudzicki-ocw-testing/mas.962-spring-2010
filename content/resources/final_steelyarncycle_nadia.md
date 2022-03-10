@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: Final_steelyarncycle_Nadia.jpg
 uid: 17222ae4-32f1-4905-1c12-90e0bf07ecf1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

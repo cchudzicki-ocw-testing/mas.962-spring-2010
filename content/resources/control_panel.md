@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: control_panel.jpg
 uid: 55d24872-e03b-7f7f-fc0d-7c25d525db3a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

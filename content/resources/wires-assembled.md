@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: wires-assembled.jpg
 uid: 9f42838d-dd8c-6143-2ead-38ef8a66460c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

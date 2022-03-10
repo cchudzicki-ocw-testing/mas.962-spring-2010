@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: banner.jpg
 uid: 46b93907-e1e2-b2c2-47d3-9f80f5d92cb7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

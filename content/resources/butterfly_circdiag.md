@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: butterfly_circdiag.jpg
 uid: c81fd30e-1f6c-2543-5a19-d63e5aa49e9c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

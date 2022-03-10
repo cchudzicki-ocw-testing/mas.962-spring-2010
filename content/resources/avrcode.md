@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: AVRCode.gif
 uid: bc631450-1dd4-7e4d-9b28-b98752589787
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

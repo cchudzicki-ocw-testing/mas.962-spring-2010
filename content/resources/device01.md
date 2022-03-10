@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: device01.jpg
 uid: 5ea4e4df-6097-8246-e772-bd5f8764009a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

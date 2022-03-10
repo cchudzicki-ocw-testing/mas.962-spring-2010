@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: rm-skp.jpg
 uid: 36d60ae4-794a-17a7-e04e-ab253edd1457
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

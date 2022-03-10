@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MITMAS_962S10_lec08_yarn.pdf
 uid: 0d3bff33-c15a-d64f-223f-138fa9a62d9b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

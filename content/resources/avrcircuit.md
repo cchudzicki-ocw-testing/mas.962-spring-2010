@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: AVRcircuit.jpg
 uid: 21bd5e42-db9c-3d3c-5f00-767e2ed2077c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

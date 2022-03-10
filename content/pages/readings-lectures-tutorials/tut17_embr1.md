@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: e974bd1a-9897-6b46-896a-13de54082f58
 title: 'Embroidery Machine Tutorial, Part 1: Software'
 uid: a96cb683-a878-2da1-c83c-a2fbd91d9e4a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{% resource_link e974bd1a-9897-6b46-896a-13de54082f58 "Readings, Lectures & Tutorials Index" "#ses17" %}} | {{% resource_link dac7dbe9-bb2e-33c6-6027-a326888523c0 "Embroidery Machine Tutorial, Part 2" %}} »

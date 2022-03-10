@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: AVRCodeExecution.gif
 uid: 1dd81e31-acd5-aee1-3b4d-7375e1b686b9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: b8640e7f-5645-ec2f-4213-a084178fd24b
 title: 'Assignment 3: "Hello World" Fabric PCBs, Part 2'
 uid: 65b98bff-a576-b7e8-689b-c6366c1e63d3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

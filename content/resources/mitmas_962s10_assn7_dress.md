@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MITMAS_962S10_assn7_dress.pdf
 uid: 8475cb73-bb68-d770-6fbf-f94968dee733
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: e974bd1a-9897-6b46-896a-13de54082f58
 title: 'AVR Programming Tutorial, Part 2: Writing Programs'
 uid: a860002e-582c-fa35-4e45-5b5e787595e0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 4bbdee6e-bb42-6142-21cf-13f92a364c47 "AVR Programming, Part 1" %}} | {{% resource_link e974bd1a-9897-6b46-896a-13de54082f58 "Readings, Lectures & Tutorials Index" "#ses6" %}}

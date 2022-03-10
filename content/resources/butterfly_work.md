@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: butterfly_work.jpg
 uid: 5ca07f3a-b31f-bc87-bf0d-80db40e80632
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: Embroidery_Nadia.jpg
 uid: ed9ac73c-883f-4903-c0d2-1e32f9bc7369
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

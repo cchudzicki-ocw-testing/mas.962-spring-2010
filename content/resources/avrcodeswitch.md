@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: AVRCodeSwitch.jpg
 uid: e7a9469f-7816-3eee-c287-c54d3ca585e0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

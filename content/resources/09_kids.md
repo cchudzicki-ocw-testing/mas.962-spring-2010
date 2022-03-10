@@ -20,4 +20,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: 09_kids.jpg
 uid: 6e554df3-f599-69d6-4ce5-90606331515b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

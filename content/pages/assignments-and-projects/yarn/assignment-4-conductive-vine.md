@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: 89220475-f26b-95a1-2be5-4f3479ca391a
 title: 'Assignment 4: Conductive Vine '
 uid: 27e2601c-ca9e-b8d0-81eb-15fa95de3926
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: ATtiny13.png
 uid: 2725e85a-6dfd-a993-235f-5e64684dcafd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

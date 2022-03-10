@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: lbdsketch.jpg
 uid: 39503cc3-d5a9-433d-4e81-a848db27eaf2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

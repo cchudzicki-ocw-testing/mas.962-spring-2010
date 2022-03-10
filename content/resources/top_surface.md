@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: top_surface.jpg
 uid: 263929bd-60fe-2e24-38f7-70027fe36035
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

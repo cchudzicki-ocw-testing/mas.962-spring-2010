@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: e9d32dff-38c5-9774-4bfd-b9f6ed53cab3
 title: 'Assignment 8: "Our Home" Embroidery Project'
 uid: 3195c5f0-7d93-000d-659f-ac026d394629
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

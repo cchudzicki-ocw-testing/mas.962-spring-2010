@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: wrist1.gif
 uid: fc050869-284c-bde4-ddac-dd324311bbe5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

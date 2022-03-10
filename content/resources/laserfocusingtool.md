@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: LaserFocusingTool.jpg
 uid: 7c307214-3b41-1214-cbde-78c08dd1d73d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

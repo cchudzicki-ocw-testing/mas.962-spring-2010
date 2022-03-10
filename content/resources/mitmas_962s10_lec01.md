@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MITMAS_962S10_lec01.pdf
 uid: 715d4a03-480f-f6d6-1005-bd7fd2bbd879
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

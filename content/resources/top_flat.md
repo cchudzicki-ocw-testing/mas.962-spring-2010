@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: top_flat.jpg
 uid: 82ce0fb6-991b-d296-e2e6-103f71b9987e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -18,4 +18,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: 14_wipes.jpg
 uid: 170823f0-2b7c-9822-cd04-ad8f484524e9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

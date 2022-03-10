@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: Final_textiles_Nadia.jpg
 uid: 7eb3c6ac-b090-ae8a-0881-85550612149e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

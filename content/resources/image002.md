@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: image002.gif
 uid: 57a45a7b-0363-cd7f-9e3e-b8ddbc3b88a3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

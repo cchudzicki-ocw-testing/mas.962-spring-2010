@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: butterfly_boardtest.jpg
 uid: 71d7505f-d718-a56b-ddb9-7bab7564e726
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

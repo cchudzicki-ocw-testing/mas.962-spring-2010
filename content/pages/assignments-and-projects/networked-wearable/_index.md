@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: b8640e7f-5645-ec2f-4213-a084178fd24b
 title: 'Assignment 6: Networked Wearable'
 uid: 202ac8dd-885c-dd02-7531-38f0e50235da
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

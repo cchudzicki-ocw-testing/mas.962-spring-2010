@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: quipu2.jpg
 uid: 14c21be2-3ff3-f89e-7fac-2afe060654e6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

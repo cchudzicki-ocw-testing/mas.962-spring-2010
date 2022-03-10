@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: Nadia_projectproposal1.jpg
 uid: 9c062160-0772-86e2-8997-5aac9f523cd4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

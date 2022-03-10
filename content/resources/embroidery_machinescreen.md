@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: embroidery_machinescreen.jpg
 uid: 898eeba2-5d9b-e980-8f87-3fa7b1c3cd18
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

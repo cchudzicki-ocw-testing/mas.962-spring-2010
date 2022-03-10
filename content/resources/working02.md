@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: working02.jpg
 uid: da978b68-063b-3791-e737-906aed8fd3cb
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

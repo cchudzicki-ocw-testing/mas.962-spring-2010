@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: AVRtesting.jpg
 uid: 17423724-74e2-98f6-24d6-5aea2e16c2e2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

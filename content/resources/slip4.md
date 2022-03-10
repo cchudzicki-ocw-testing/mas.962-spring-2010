@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: slip4.jpg
 uid: 20b2de60-e478-81e1-3e8a-7d8ec01e038d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

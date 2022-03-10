@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: belt.jpg
 uid: bf7906f5-5e22-fc85-7335-db9f88693ed1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

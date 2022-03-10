@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: ATtiny13PinOut.gif
 uid: 7879f8ce-6e71-e030-2f28-5ff3bdef8ce4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

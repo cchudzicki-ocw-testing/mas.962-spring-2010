@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: sketch.jpg
 uid: c42da6e5-44c5-53c1-aa83-5b6a45e517a2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

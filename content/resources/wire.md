@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: wire.jpg
 uid: 1c8b1e9d-f024-78e8-b6b7-dfd2d1eccb92
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

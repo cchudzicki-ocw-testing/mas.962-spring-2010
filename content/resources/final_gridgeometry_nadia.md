@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: Final_gridgeometry_Nadia.jpg
 uid: a9793577-e0aa-d0e4-67e3-b2501df93751
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

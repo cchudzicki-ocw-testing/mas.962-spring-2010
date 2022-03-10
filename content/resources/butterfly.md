@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: butterfly.jpg
 uid: 4b6e8503-97d6-4b4b-1e1d-cc28fcf5b54d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

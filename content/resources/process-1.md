@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: process.jpg
 uid: b4c023d4-6c9a-bffc-eb02-09357443a4ef
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

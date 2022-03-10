@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: butterfly_layout.jpg
 uid: 7ca08c5f-a2fc-7fa6-e85f-cee9ce276a68
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: touch1.jpg
 uid: b19e89f6-0f76-d196-3cec-ac19c25d61b7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

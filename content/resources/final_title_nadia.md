@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: Final_title_Nadia.jpg
 uid: 518ad74e-4902-2ce5-dddf-08db41d3151e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

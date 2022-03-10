@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: embroidery_machinesreen2.jpg
 uid: 48a206cd-d244-4fc9-022d-db91cdf8400c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

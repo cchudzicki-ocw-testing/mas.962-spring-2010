@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: twist.jpg
 uid: 5399b960-6799-f78b-447c-63c9231cfd22
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

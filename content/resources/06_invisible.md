@@ -22,4 +22,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: 06_invisible.jpg
 uid: 9f658681-4997-3bf2-af54-beaaea190182
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

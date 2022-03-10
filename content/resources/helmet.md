@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: helmet.jpg
 uid: c5e9424d-e6ac-5349-201a-62d6f760837b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

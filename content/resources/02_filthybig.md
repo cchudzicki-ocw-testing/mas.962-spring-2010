@@ -22,4 +22,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: 02_filthybig.jpg
 uid: 990e04a4-d63f-4772-4699-d72002e0f49a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

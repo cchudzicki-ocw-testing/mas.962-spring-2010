@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: function2.jpg
 uid: 8842f38a-e86b-169f-f1a4-59287954d0cb
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

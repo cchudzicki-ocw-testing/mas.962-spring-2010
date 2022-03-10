@@ -19,4 +19,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: 03_fauxpasnaps.jpg
 uid: fcbac004-54ff-986c-1ea9-82240f01a9c3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

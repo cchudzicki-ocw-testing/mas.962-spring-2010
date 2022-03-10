@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: leds.jpg
 uid: 65b45ab1-baf8-ac31-a4f1-049085c4cc04
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

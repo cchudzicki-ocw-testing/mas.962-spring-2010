@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: thermochromic.jpg
 uid: 1aa382b0-016d-6b91-516a-49648f50f9c1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

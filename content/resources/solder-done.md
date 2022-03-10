@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: solder-done.jpg
 uid: 008d9dff-1fa9-3e8f-1c94-81ffa5521288
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: soldering.jpg
 uid: c7c87f36-84b5-cc37-45e5-e7f5339ce8b8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

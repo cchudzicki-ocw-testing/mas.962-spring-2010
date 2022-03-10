@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: circuit.gif
 uid: 75cd7d71-ab44-150f-13a2-9ca018c11178
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

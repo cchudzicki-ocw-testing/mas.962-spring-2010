@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: lightup.jpg
 uid: 750dc9e4-320a-ce34-123b-0f9e712785a5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

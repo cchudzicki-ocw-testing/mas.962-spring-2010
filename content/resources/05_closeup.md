@@ -21,4 +21,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: 05_closeUP.jpg
 uid: 729fb681-21e9-e144-a206-9886e81c2d9a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

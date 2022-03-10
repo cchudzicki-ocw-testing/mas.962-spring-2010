@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MITMAS_962S10_assn7_slipr.pdf
 uid: 0edd79d6-b415-ce6e-06ff-bd036e3bdbbd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

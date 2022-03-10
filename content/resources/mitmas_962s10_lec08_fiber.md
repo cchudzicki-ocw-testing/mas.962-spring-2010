@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MITMAS_962S10_lec08_fiber.pdf
 uid: 8f2f1efc-5399-bd19-cedb-194e568d5c1a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

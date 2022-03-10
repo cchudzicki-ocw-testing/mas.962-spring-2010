@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: dressWhole.jpg
 uid: bf62e40b-e588-48e4-5d43-770160ed9583
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

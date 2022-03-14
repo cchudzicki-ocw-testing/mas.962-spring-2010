@@ -8,6 +8,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: 'Final Project: Tunable Stiffness Structures'
 parent_type: CourseSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video

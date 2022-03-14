@@ -12,6 +12,4 @@ parent_uid: 77520b74-548a-605c-22bd-5f4919a9b598
 resourcetype: Other
 title: bdr_integrated_code.txt
 uid: 4cb0c882-10ec-3230-fcf2-35f8e2292b50
-video_files:
-  video_thumbnail_file: null
 ---

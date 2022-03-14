@@ -11,6 +11,4 @@ parent_uid: b8152aef-691c-0825-0ce2-97f34c7b6768
 resourcetype: Other
 title: ATtiny13FabricPCB.txt
 uid: c55ed916-8966-084f-db55-8b0f099b3e6e
-video_files:
-  video_thumbnail_file: null
 ---

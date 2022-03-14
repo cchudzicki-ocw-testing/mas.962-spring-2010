@@ -12,6 +12,4 @@ parent_uid: 1805af5b-ecab-6b00-7d48-946d9bb9cafe
 resourcetype: Other
 title: butterfly_code.txt
 uid: 5648e55c-ddab-0a07-6686-b5734b94136b
-video_files:
-  video_thumbnail_file: null
 ---

@@ -12,6 +12,4 @@ parent_uid: 77520b74-548a-605c-22bd-5f4919a9b598
 resourcetype: Other
 title: bdr_standalone_code.txt
 uid: 931f1939-123d-ee3a-7077-2886289249b6
-video_files:
-  video_thumbnail_file: null
 ---

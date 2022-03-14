@@ -12,6 +12,4 @@ parent_uid: 5af02bea-0868-c0fa-845e-79cc65770c1e
 resourcetype: Other
 title: bag_code.txt
 uid: e675300b-ffcb-e7a3-2a84-880f2c8dba8b
-video_files:
-  video_thumbnail_file: null
 ---

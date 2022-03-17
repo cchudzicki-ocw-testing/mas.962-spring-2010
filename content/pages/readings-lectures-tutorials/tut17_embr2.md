@@ -15,7 +15,7 @@ video_metadata:
 
 « {{% resource_link 4bbdee6e-bb42-6142-21cf-13f92a364c47 "Embroidery Machine Tutorial, Part 1" %}} | {{% resource_link e974bd1a-9897-6b46-896a-13de54082f58 "Readings, Lectures & Tutorials Index" "#ses17" %}}
 
-{{< resource 8b3e873b-fe30-85ed-153a-0b84ca671d83 "Photo of embroidered fabric in a machine embroidery hoop." >}}
+{{< resource "8b3e873b-fe30-85ed-153a-0b84ca671d83" >}}
 
 A sample of machine embroidery.
 
@@ -31,21 +31,21 @@ We have a [Bernina Artista 630 Embroidery/Sewing Machine](http://www.berninausa.
 
 If you're using an iron-on interfacing, iron the material to your fabric. Put your fabric and interfacing into the embroidery hoop so that the fabric is facing up and flush with the bottom of the hoop.
 
-{{< resource 18ccddcc-60ea-f360-34dc-22e0f00c73e5 "Two photos showing the process of putting fabric and interfacing into a two-part embroidery hoop." >}}     {{< resource 94952e11-36b1-e1e9-d688-54de754a46e4 "Two photos showing the process of putting fabric and interfacing into a two-part embroidery hoop." >}}
+{{< resource "18ccddcc-60ea-f360-34dc-22e0f00c73e5" >}}     {{< resource "94952e11-36b1-e1e9-d688-54de754a46e4" >}}
 
 Putting fabric and interfacing into an embroidery hoop.
 
 **3\. Set up the machine for embroidery**
 
-{{< resource 721ff59e-d522-39fa-aa3f-a61b6d5d0ee2 "Photo of sewing machine with embroidery arm attachment." >}}
+{{< resource "721ff59e-d522-39fa-aa3f-a61b6d5d0ee2" >}}
 
 Attach the embroidery arm and plug it into the machine.
 
-{{< resource 5fa19959-60e8-214d-0a7b-602426467b5d "Photo showing hand attaching a presser foot on a sewing machine." >}}
+{{< resource "5fa19959-60e8-214d-0a7b-602426467b5d" >}}
 
 Lower the sewing machine teeth -- the "feed dogs" – and attach the embroidery presser foot.
 
-{{< resource 77b6377a-951b-01ee-c02a-4c1c1c7fb65e "Photo showing hand attaching a presser foot on a sewing machine." >}}
+{{< resource "77b6377a-951b-01ee-c02a-4c1c1c7fb65e" >}}
 
 Put your hoop in the machine.
 
@@ -59,17 +59,17 @@ You can use the menu on the machine to scale, move, and rotate your pattern.
 
 When you're ready hit the OK button.
 
-{{< resource 898eeba2-5d9b-e980-8f87-3fa7b1c3cd18 "Photo of embroidery pattern on a small electronic display, surrounded by control buttons." >}}
+{{< resource "898eeba2-5d9b-e980-8f87-3fa7b1c3cd18" >}}
 
 The embroidery machine control menu.
 
 **5\. Embroider your pattern**
 
-{{< resource 48a206cd-d244-4fc9-022d-db91cdf8400c "Photo of a finger pressing button on the embroidery machine." >}}
+{{< resource "48a206cd-d244-4fc9-022d-db91cdf8400c" >}}
 
 Put the presser foot down. Hold down the button with the two dots until the machine starts to stitch.
 
-{{< resource 8b3e873b-fe30-85ed-153a-0b84ca671d83 "Photo of embroidered fabric, still in the hoop." >}}
+{{< resource "8b3e873b-fe30-85ed-153a-0b84ca671d83" >}}
 
 Finished!
 

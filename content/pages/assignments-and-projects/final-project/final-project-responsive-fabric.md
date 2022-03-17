@@ -41,7 +41,7 @@ So, my goal in this final project is to understand how to connect the smart mate
 Component
 ---------
 
-{{< resource 6cb9a243-9199-4871-9bd0-96e1bb76b664 "Three photos showing the components on the fabric." >}}
+{{< resource "6cb9a243-9199-4871-9bd0-96e1bb76b664" >}}
 
 Components of the responsive fabric: transistors, resistors, nitinol wire, and a LilyPad Arduino.
 
@@ -50,7 +50,7 @@ I used Lilypad Arduino 328 as the main board to read the program, and attached t
 Scheme
 ------
 
-{{< resource 36d60ae4-794a-17a7-e04e-ab253edd1457 "Three layout schematic views and a top-view photo of the assembled fabric." >}}
+{{< resource "36d60ae4-794a-17a7-e04e-ab253edd1457" >}}
 
 Designing the responsive fabric layout with Google SketchUp.
 
@@ -66,7 +66,7 @@ With this technique, we can get a sense of the scale of how the final product wi
 Connection
 ----------
 
-{{< resource 052dc10e-2344-ecb4-9356-a65521422006 "Four photos: (1) Iron from zelt to LilyPad; (2) crimped bead between zelt and spiral nitinol wire; (3) solder from zelt to electronics pin; and (4) iron between two pieces of zelt." >}}
+{{< resource "052dc10e-2344-ecb4-9356-a65521422006" >}}
 
 Four types of connections used in the responsive fabric.
 
@@ -77,7 +77,7 @@ Procedure
 
 The goal of the procedure is to have the flaps move as the mouse position is over the dot on the shutter controller (see the screen). The procedure is the following: on the Shutter Controller, IF the mouse position is over the dot THEN the processing will send information (i) to the arduino. In the arduino, IF it’s receiving the information (i), THEN the arduino told the mainboard to turn on the PIN (HIGH). In the circuit, IF that PIN on the mainboard turns on, THEN the transistor will let the current feds the nitinol connected to that PIN so it will contract and pull the flap up.
 
-{{< resource 6f3b0ed7-d146-1fc2-da74-c761df6a5441 "Diagram showing the fabric connected via wire to a laptop, which is running a shutter controller program." >}}
+{{< resource "6f3b0ed7-d146-1fc2-da74-c761df6a5441" >}}
 
 Responsive fabric system diagram including laptop control.
 

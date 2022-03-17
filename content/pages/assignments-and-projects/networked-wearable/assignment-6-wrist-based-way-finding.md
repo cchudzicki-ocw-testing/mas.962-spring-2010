@@ -30,7 +30,7 @@ Next: {{% resource_link d9c64252-0aba-741e-8bc3-ef40039896ca "student work sampl
 _New Textiles students: Dawn Wendell, Rizal Muslimin and anonymous student  
 Communicating with Mobile Technologies students: Thomas Lipoma and anonymous MIT student_
 
-{{< resource 5ea4e4df-6097-8246-e772-bd5f8764009a "Close-up photo of several electronic devices sewn into a piece of fabric." >}}
+{{< resource "5ea4e4df-6097-8246-e772-bd5f8764009a" >}}
 
 The wristband component of the way-finder.
 
@@ -38,7 +38,7 @@ For our collaboration with the Communicating with Mobile Technologies class, we 
 
 The Textiles team built a wrist-based device, connected with the LilyPad and two RGB LEDs. We also completed the bluetooth connection from the phone to the device and troubleshot the system using the output from the phone compass.
 
-{{< resource fc050869-284c-bde4-ddac-dd324311bbe5 "Collage of various design elements: Android mobile phone, wristband and several code excerpts." >}}
+{{< resource "fc050869-284c-bde4-ddac-dd324311bbe5" >}}
 
 Design elements of the wrist-based way-finder.
 
@@ -48,7 +48,7 @@ Here is a video of the wristband responding to compass directions from the phone
 
 One LED changes color in response to the orientation of the phone, and the other LED changes from red to green when the phone has been held in the green ("correct") position for longer than 3 seconds. This pause / response is intended to signify that you have traveled in the correct direction and have now arrived at the destination.
 
-{{< resource 3303bca9-c908-aae5-9d92-faa119bcacff "Diagram depicting two potential applications: navigation, shown by a bicyclist consulting an online map tool, and monitoring, shown by a runner communicating heart data to some medical devices." >}}
+{{< resource "3303bca9-c908-aae5-9d92-faa119bcacff" >}}
 
 Potential applications include mobile navigation support and physiological monitoring. (Map image source © Google. All rights reserved. This content is excluded from our CreativeCommons license. For more information, see [http://ocw.mit.edu/fairuse](/fairuse))
 
@@ -60,7 +60,7 @@ Lessons Learned
 *   It was very hard to do anything in parallel because we had one device, one LilyPad, one phone, and two groups from the Mobile Technologies class who both needed to use the textile device.
 *   Scheduling undergrads and grads together is HARD. We were never able to actually meet up with our Mobile Technologies teammates.
 
-{{< resource da978b68-063b-3791-e737-906aed8fd3cb "Photo of two people at a table working on the system: mobile phone, wristband, and laptop." >}}
+{{< resource "da978b68-063b-3791-e737-906aed8fd3cb" >}}
 
 Testing the system.
 

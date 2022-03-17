@@ -36,7 +36,7 @@ Every woman is supposed to have at least one iconic "little black dress" -- the 
 
 For this final project, we were interested in constructing a garment had an output mechanism other than lighting, and settled on exploring what we could do with thermochromic ink. In particular, we were interested in the fact that the ink transitions from colored to clear...but none of the prior work we explored took advantage of the transparency to create objects that seemed to be sheer. What if panels of a dress were made of sheer fabric printed with thermochromic ink, so that they appeared opaque in normal wear, but could be heated to become sheer?
 
-{{< resource 39503cc3-d5a9-433d-4e81-a848db27eaf2 "Drawing of two people, mannequin-style, wearing dress." >}}
+{{< resource "39503cc3-d5a9-433d-4e81-a848db27eaf2" >}}
 
 Reinventing the Little Black Dress.
 
@@ -47,7 +47,7 @@ Our original design had sheer panels that could be turned on to turn a fairly co
 
 We got nude-colored sheer fabric and dyed it with a mix of thermochromic ink powder (from ColorChange) and fabric medium. We used a paint roller coated in the ink/fabric medium mix to create an even coating on the fabric, as earlier experiments with a paintbrush resulted in visibly uneven coverage. We chose a thermochromic ink that started out black and became clear at 40 degrees Celsius, a bit above body temperature, so that simply wearing the garment would not cause panels to change to transparent.
 
-{{< resource 1aa382b0-016d-6b91-516a-49648f50f9c1 "Photo of black paint on a plate, with roller, and a couple of containers. " >}}
+{{< resource "1aa382b0-016d-6b91-516a-49648f50f9c1" >}}
 
 Preparing the thermochromic ink.
 
@@ -61,26 +61,26 @@ To power the dress, we used 6 packs of 4-pack AA batteries, which provides 6 vol
 
 One major limitation of the thermochromic ink technique was the amount of power necessary for turning a relatively small area transparent. This was made more power-intensive by the high temperature required for the color change and the fairly light sheer material, which did not conduct heat very well.
 
-{{< resource 6056ae42-f5b8-b2a4-106c-3fc2282510ac "Photo of the front neckline portion of the dress, constructed of a light-colored (sheer?) material with thin wires embedded in it. " >}}
+{{< resource "6056ae42-f5b8-b2a4-106c-3fc2282510ac" >}}
 
 The thermochromic area of the dress.
 
 To allow the garment to be controlled by the wearer, we incorporated soft pressure sensors in the right hip and left shoulder of the dress. Putting your hand on your hip turns the circuit on and causes the neck piece to become transparent, so the dress transforms from a boatneck to a low v-neck; putting your hand across your body to your shoulder turns the circuit off, so the neck piece gradually fades back to opaque. The circuit also times out and turns off 25 seconds after it is turned on.
 
-{{< resource 583e67fb-a782-a1a9-370c-2e5962806e49 "Drawing showing the switch control locations of the dress: hand to left hip “switch to reveal more;” hand to right shoulder, “switch to cover.”" >}}
+{{< resource "583e67fb-a782-a1a9-370c-2e5962806e49" >}}
 
 Controlling the dress.
 
 Each soft pressure sensor is constructed from two layers of soft and slightly spongy fabric such as felt or velvet, with a layer of netting sandwiched in the middle. On each square of felt, conductive thread is used as a bobbin thread to stitch a number of zigzag lines across the felt. These layers are isolated from one another by the netting, until the sensor is pressed. Then it completes the circuit and behaves as a switch.
 
-{{< resource 19a6be38-62fd-b2aa-6108-5c3d338c73fa "Photo of a small square of fabric with stitching pattern, wired into the the dress." >}}
+{{< resource "19a6be38-62fd-b2aa-6108-5c3d338c73fa" >}}
 
 One of the soft pressure sensors.
 
 The Final Dress
 ---------------
 
-{{< resource bf62e40b-e588-48e4-5d43-770160ed9583 "Photo of the dress on a dress-making dummy." >}}
+{{< resource "bf62e40b-e588-48e4-5d43-770160ed9583" >}}
 
 The final dress.
 
@@ -97,7 +97,7 @@ Additionally, we created a belt to hold the battery packs that could snap on and
 
 We similarly wrapped stripped stranded wires around the legs of the transistors, which we curled into circles. We experimented with sewing the stripped ends of the stranded wire through the fabric, which also proved useful (particularly for the wires attached to the pressure sensors, which ran inside the garment but then needed to be connected on the outside of the dress).
 
-{{< resource aacf1630-2a73-cb33-5d7f-58a96c234fb7 "Photo close-up of the dress wiring around the waist, with many wires, connectors and snaps." >}}
+{{< resource "aacf1630-2a73-cb33-5d7f-58a96c234fb7" >}}
 
 Wiring for the dress.
 
@@ -108,7 +108,7 @@ An important thing we found in constructing this dress was that transistors can 
 
 We also found that modularity of the components was a good design pattern for working with textiles. For example, as we created the battery belt separately, with snaps to connect the power and ground to the dress, it would be easy to create a new belt with lithium batteries and a much lighter form factor and simply be able to snap that on without making other changes to the garment.
 
-{{< resource bf7906f5-5e22-fc85-7335-db9f88693ed1 "Photo close-up of a rectangular fabric pouch on the dress, containing many AA batteries." >}}
+{{< resource "bf7906f5-5e22-fc85-7335-db9f88693ed1" >}}
 
 The battery belt.
 

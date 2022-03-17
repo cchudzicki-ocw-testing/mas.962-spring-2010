@@ -1,19 +1,19 @@
 ---
 content_type: page
-draft: false
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 parent_title: 'Assignment 4: Yarn'
 parent_type: CourseSection
 parent_uid: 89220475-f26b-95a1-2be5-4f3479ca391a
-title: 'Assignment 4: Digital Quipu Edit 1'
+title: 'Assignment 4: Digital Quipu '
 uid: 41b42985-b4b1-f26c-1c9f-f4c9e926ac9c
 video_files:
   video_thumbnail_file: null
 video_metadata:
   youtube_id: null
 ---
+
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
@@ -29,7 +29,7 @@ Next: Return to {{% resource_link 89220475-f26b-95a1-2be5-4f3479ca391a "Assignme
 
 _By Rizal Muslimin_
 
-{{< resource 4ad70eaf-5374-08fe-0537-f02f40c09b6d "Image of original quipu (knotted strings), and two photos and a diagram of the digital quipu showing conductive and non-conductive yarns and the PCB." >}}
+{{< resource "4ad70eaf-5374-08fe-0537-f02f40c09b6d" >}}
 
 Digital Quipu: inspiration and design. (Left image (c) Mary Frame, from “Ancient Cloth...Ancient Code?” All rights reserved. This content is excluded from our Creative Commons license. For more information, see [http://ocw.mit.edu/fairuse](/fairuse).)
 
@@ -44,7 +44,7 @@ In this 2 yards digital quipu, there are 12 yarns ‘knotted’ with 18 PCB’s 
 
 Design elements of digital quipu.
 
-{{< resource bb1cffca-1174-6939-8d95-88cfebf3f7e0 "Three close up photos of the yarn, showing twist pattern." >}}
+{{< resource "bb1cffca-1174-6939-8d95-88cfebf3f7e0" >}}
 
 Close up view of the yarn.
 
